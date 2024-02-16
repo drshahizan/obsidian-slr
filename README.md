@@ -20,6 +20,11 @@ ZotFile is a third-party plugin for Zotero that helps you manage your attachment
 1. On the [ZotFile site]((https://zotfile.com/)), click **Download** and the **xpi file** will be downloaded. 
 2. In the Zotero application, go to *Tools > Add-Ons*.
 3. Click on the *gear icon* and choose *"Install Add-on from file"*
+
+<p align="center">
+<img src="/images/AI%20adv%20student.jpeg"  height="500" />
+</p>
+   
 4. Locate your downloaded xpi file and click Open
 5. Restart Zotero and go to *Tools -> ZotFile Preferences* to configure the plugin settings according to your needs.
 6. To use ZotFile, you can right-click on any Zotero item or attachment and select Manage Attachments from the menu. You will see various options to rename, move, send, or get files from your tablet or cloud service. You can also extract annotations from PDFs by selecting Extract Annotations.
