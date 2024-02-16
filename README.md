@@ -85,6 +85,10 @@ Obsidian is a powerful note-taking app that allows you to create and link your n
 
 These plugins can help you make your notes more organized, informative, and creative. You can install them from the Obsidian community plugins page or from their GitHub repositories.
 
+To check for updates for your plugins, please follow these steps:
+1. Go to **Settings → Community plugins → Current plugins**.
+2. Click on the **Check for updates** button. You will update all plugins.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian-slr/issues) for any improvements, suggestions or errors in the content.
 
