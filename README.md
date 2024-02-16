@@ -22,7 +22,7 @@ ZotFile is a third-party plugin for Zotero that helps you manage your attachment
 3. Click on the *gear icon* and choose *"Install Add-on from file"*
 
 <p align="center">
-<img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/install%20zotero%20plugin.png"  height="400" />
+<img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/install%20zotero%20plugin.png"  height="200" />
 </p>
    
 4. Locate your downloaded xpi file and click Open
@@ -34,18 +34,18 @@ For more details and examples, you can watch this [video tutorial](https://www.y
 #### 2. Better BibTeX
 Better BibTeX is a plugin for Zotero that enhances its functionality for LaTeX users. It allows you to generate customized citation keys, export your library in BibTeX or BibLaTeX format, and sync your attachments with your tablet or cloud service. Here are the steps to install and use Better BibTeX:
 
-- To install Better BibTeX, download the extension file from [here](https://retorque.re/zotero-better-bibtex/installation) and save it to your computer.
-- Open Zotero and go to *Tools -> Add-ons -> Tools for all Add-ons* (the small, drop-down wheel in the top right corner) *-> Install Add-on From File* and select the downloaded file.
-- Restart Zotero and go to *Tools -> Better BibTeX Preferences* to configure the plugin settings according to your needs.
-- To use Better BibTeX, you can right-click on any Zotero item or attachment and select Manage Attachments from the menu. You will see various options to rename, move, send, or get files from your tablet or cloud service. You can also extract annotations from PDFs by selecting Extract Annotations.
-- To export your library in BibTeX or BibLaTeX format, you can right-click on a collection or the whole library and select Export Collection. Then, choose Better BibTeX or Better BibLaTeX as the format and save the file.
-- To generate customized citation keys, you can use the Citation key formula option in the Better BibTeX Preferences. You can use various placeholders and modifiers to create your own pattern. For example, `[auth:lower][year][title:skipwords:select,1,1:lower:alphanum]` will generate keys like `shahizan2024slr`.
+1. To install Better BibTeX, download the extension file from [here](https://retorque.re/zotero-better-bibtex/installation) and save it to your computer.
+2. Open Zotero and go to *Tools -> Add-ons -> Tools for all Add-ons* (the small, drop-down wheel in the top right corner) *-> Install Add-on From File* and select the downloaded file.
+3. Restart Zotero and go to *Tools -> Better BibTeX Preferences* to configure the plugin settings according to your needs.
+4. To use Better BibTeX, you can right-click on any Zotero item or attachment and select Manage Attachments from the menu. You will see various options to rename, move, send, or get files from your tablet or cloud service. You can also extract annotations from PDFs by selecting Extract Annotations.
+5. To export your library in BibTeX or BibLaTeX format, you can right-click on a collection or the whole library and select Export Collection. Then, choose Better BibTeX or Better BibLaTeX as the format and save the file.
+6. To generate customized citation keys, you can use the Citation key formula option in the Better BibTeX Preferences. You can use various placeholders and modifiers to create your own pattern. For example, `[auth:lower][year][title:skipwords:select,1,1:lower:alphanum]` will generate keys like `shahizan2024slr`.
 
 <p align="center">
 <img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/better%20bibtex.png"  height="400" />
 </p>
   
-- For more details and examples, read this [guide](https://tex.stackexchange.com/questions/702678/generating-citation-keys-with-zotero-and-better-bibtex-plugin).
+For more details and examples, read this [guide](https://tex.stackexchange.com/questions/702678/generating-citation-keys-with-zotero-and-better-bibtex-plugin).
   
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian-slr/issues) for any improvements, suggestions or errors in the content.
