@@ -90,7 +90,7 @@ To check for updates for your plugins, please follow these steps:
 2. Click on the **Check for updates** button. You will update all plugins.
 
 <p align="center">
-<img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/plugin%20update.png"  height="400" />
+<img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/plugin%20update.png"  height="300" />
 </p>
 
 ## Contribution 🛠️
