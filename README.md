@@ -37,7 +37,7 @@ Better BibTeX is a plugin for Zotero that enhances its functionality for LaTeX u
 1. Download the ‘Better BibTeX for Zotero’ plugin from [here](https://github.com/retorquere/zotero-better-bibtex/releases/tag/v6.7.36). Hover your cursor to `zotero-better-bibtex-6.7.36.xpi`, then right-click and select ‘Save link as’ to download the addon.
 
 <p align="center">
-<img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/install%20zotero%20plugin.png"  height="200" />
+<img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/bibtex%20download.png"  height="200" />
 </p>
 
 3. Open Zotero and go to *Tools -> Add-ons -> Tools for all Add-ons* (the small, drop-down wheel in the top right corner) *-> Install Add-on From File* and select the downloaded file.
