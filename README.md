@@ -10,11 +10,12 @@
 
 This repository hosts an Obsidian vault tailored for conducting a Systematic Literature Review (SLR). An SLR is a meticulous and transparent approach to synthesizing and evaluating existing literature related to a specific research question. Obsidian is a robust note-taking application that offers features such as linking, tagging, and graphing of notes. By utilizing GitHub, the vault can be synchronized, backed up, and shared with other researchers. GitHub is a web-based platform that hosts code repositories and offers version control, collaboration, and documentation capabilities. This vault template is intended for computer science researchers seeking to perform an SLR using Obsidian and GitHub.
 
-## Zotero Plugin
-### 1. Zotfile
-ZotFile is a third-party plugin for Zotero that helps you manage your attachments, such as PDFs. It can automatically rename, move, and sync your files with your mobile device or cloud storage. It can also extract annotations from PDFs and save them as Zotero notes. Here are the steps to install and use ZotFile:
+## What You Need to Do Before Joining this class 🚀
 
-#### To install and use ZotFile
+### Install Zotero Plugin
+
+#### 1. Zotfile
+ZotFile is a third-party plugin for Zotero that helps you manage your attachments, such as PDFs. It can automatically rename, move, and sync your files with your mobile device or cloud storage. It can also extract annotations from PDFs and save them as Zotero notes. Here are the steps to install and use ZotFile:
 
 1. On the [ZotFile site]((https://zotfile.com/)), click **Download** and the **xpi file** will be downloaded. 
 2. In the Zotero application, go to *Tools > Add-Ons*.
@@ -25,7 +26,7 @@ ZotFile is a third-party plugin for Zotero that helps you manage your attachment
 
 For more details and examples, you can watch this [video tutorial](https://www.youtube.com/watch?v=faYJ4gEGZ40) or visit the [ZotFile website](http://zotfile.com) or the [GitHub repository](https://github.com/jlegewie/zotfile) for more information and support.
 
-### 2. Better BibTeX
+#### 2. Better BibTeX
 Better BibTeX is a plugin for Zotero that enhances its functionality for LaTeX users. It allows you to generate customized citation keys, export your library in BibTeX or BibLaTeX format, and sync your attachments with your tablet or cloud service. Here are the steps to install and use Better BibTeX:
 
 - To install Better BibTeX, download the extension file from [here](https://retorque.re/zotero-better-bibtex/installation) and save it to your computer.
