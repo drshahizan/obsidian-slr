@@ -65,6 +65,23 @@ Better BibTeX is a plugin for Zotero that enhances its functionality for LaTeX u
 </p>
   
 For more details and examples, read this [guide](https://tex.stackexchange.com/questions/702678/generating-citation-keys-with-zotero-and-better-bibtex-plugin).
+
+### 4. Obsidian Plugins
+
+| No. | Plugins | Description |
+| --- | --- | --- |
+| 1 | [Admonition](https://github.com/valentine195/obsidian-admonition) | A plugin that allows you to create block-styled admonitions (notes, warnings, tips, etc.) in your notes. |
+| 2 | [Autocomplete](https://github.com/yeboster/autocomplete-obsidian) | A plugin that provides autocomplete suggestions for words, tags, links, and commands in your notes. |
+| 3 | [Better Word Count](https://github.com/lukeleppan/better-word-count) | A plugin that shows the word count, character count, and reading time of your notes in the status bar. |
+| 4 | [Calendar](https://github.com/liamcain/obsidian-calendar-plugin) | A plugin that adds a calendar view to your notes, where you can see and create notes based on dates. |
+| 5 | [cMenu Plugin](https://github.com/chetachiezikeuzor/cMenu-Plugin) | A plugin that adds a customizable context menu to your notes, where you can access various commands and actions. |
+| 6 | [Dataview](https://github.com/blacksmithgu/obsidian-dataview) | A plugin that allows you to query, filter, sort, and display data from your notes using a simple query language. |
+| 7 | [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) | A plugin that integrates Excalidraw, a tool for creating hand-drawn diagrams, into your notes. |
+| 8 | [Iconize](https://github.com/FlorianWoelki/obsidian-icon-folder) | A plugin that lets you add icons to your folders and notes in the file explorer. |
+| 9 | [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list) | A plugin that generates a reference list from your citations using Pandoc. |
+| 10 | [Kanban](https://github.com/mgmeyers/obsidian-kanban) | A plugin that allows you to create and manage kanban boards in your notes. |
+| 11 | [Zotero Integration](https://github.com/mgmeyers/obsidian-zotero-integration) | A plugin that integrates Zotero, a tool for managing bibliographic data, into your notes. |
+
   
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian-slr/issues) for any improvements, suggestions or errors in the content.
