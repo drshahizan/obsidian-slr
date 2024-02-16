@@ -44,7 +44,7 @@ Better BibTeX is a plugin for Zotero that enhances its functionality for LaTeX u
 4. Restart Zotero and go to *Tools -> Better BibTeX Preferences* to configure the plugin settings according to your needs.
 5. To use Better BibTeX, you can right-click on any Zotero item or attachment and select Manage Attachments from the menu. You will see various options to rename, move, send, or get files from your tablet or cloud service. You can also extract annotations from PDFs by selecting Extract Annotations.
 6. To export your library in BibTeX or BibLaTeX format, you can right-click on a collection or the whole library and select Export Collection. Then, choose Better BibTeX or Better BibLaTeX as the format and save the file.
-7. To generate customized citation keys, you can use the Citation key formula option in the Better BibTeX Preferences. You can use various placeholders and modifiers to create your own pattern. For example, `[auth:lower][year][title:skipwords:select,1,1:lower:alphanum]` will generate keys like `shahizan2024slr`.
+7. To generate customized citation keys, you can use the Citation key formula option in the Better BibTeX Preferences. You can use various placeholders and modifiers to create your own pattern. For example, `[auth:lower]_[year]` will generate keys like `shahizan_2024`.
 
 <p align="center">
 <img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/better%20bibtex.png"  height="400" />
