@@ -34,7 +34,7 @@ For more details and examples, you can watch this [video tutorial](https://www.y
 #### 2. Better BibTeX
 Better BibTeX is a plugin for Zotero that enhances its functionality for LaTeX users. It allows you to generate customized citation keys, export your library in BibTeX or BibLaTeX format, and sync your attachments with your tablet or cloud service. Here are the steps to install and use Better BibTeX:
 
-1. To install Better BibTeX, download the extension file from [here](https://retorque.re/zotero-better-bibtex/installation) and save it to your computer.
+1. Download the ‘Better BibTeX for Zotero’ plugin from [here](https://github.com/retorquere/zotero-better-bibtex/releases/tag/v6.7.36). Hover your cursor to `zotero-better-bibtex-6.7.36.xpi`, then right-click and select ‘Save link as’ to download the addon.
 2. Open Zotero and go to *Tools -> Add-ons -> Tools for all Add-ons* (the small, drop-down wheel in the top right corner) *-> Install Add-on From File* and select the downloaded file.
 3. Restart Zotero and go to *Tools -> Better BibTeX Preferences* to configure the plugin settings according to your needs.
 4. To use Better BibTeX, you can right-click on any Zotero item or attachment and select Manage Attachments from the menu. You will see various options to rename, move, send, or get files from your tablet or cloud service. You can also extract annotations from PDFs by selecting Extract Annotations.
