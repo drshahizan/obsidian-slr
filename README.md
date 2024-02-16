@@ -12,13 +12,13 @@ This repository hosts an Obsidian vault tailored for conducting a Systematic Lit
 
 ## What You Need to Do Before Joining this class 🚀
 
-### Fork and Star the Obsidian-slr Repository
+### 1. Fork and Star the Obsidian-slr Repository
    To prepare for our first session, please **fork** and **star** the repository named "obsidian-slr" on my GitHub account. You can find it [here](https://github.com/drshahizan/obsidian-slr). We will use this repository a lot during the workshop.
 
 
-### Install Zotero Plugin
+### 3.Install Zotero Plugin
 
-#### 1. Zotfile
+#### a. Zotfile
 ZotFile is a third-party plugin for Zotero that helps you manage your attachments, such as PDFs. It can automatically rename, move, and sync your files with your mobile device or cloud storage. It can also extract annotations from PDFs and save them as Zotero notes. Here are the steps to install and use ZotFile:
 
 1. On the [ZotFile site]((https://zotfile.com/)), click **Download** and the **xpi file** will be downloaded. 
@@ -35,7 +35,7 @@ ZotFile is a third-party plugin for Zotero that helps you manage your attachment
 
 For more details and examples, you can watch this [video tutorial](https://www.youtube.com/watch?v=faYJ4gEGZ40) or visit the [ZotFile website](http://zotfile.com) or the [GitHub repository](https://github.com/jlegewie/zotfile) for more information and support.
 
-#### 2. Better BibTeX
+#### b. Better BibTeX
 Better BibTeX is a plugin for Zotero that enhances its functionality for LaTeX users. It allows you to generate customized citation keys, export your library in BibTeX or BibLaTeX format, and sync your attachments with your tablet or cloud service. Here are the steps to install and use Better BibTeX:
 
 1. Download the ‘Better BibTeX for Zotero’ plugin from [here](https://github.com/retorquere/zotero-better-bibtex/releases/tag/v6.7.36). Hover your cursor to `zotero-better-bibtex-6.7.36.xpi`, then right-click and select ‘Save link as’ to download the addon.
