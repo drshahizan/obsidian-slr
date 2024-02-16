@@ -22,7 +22,7 @@ ZotFile is a third-party plugin for Zotero that helps you manage your attachment
 3. Click on the *gear icon* and choose *"Install Add-on from file"*
 
 <p align="center">
-<img src="/images/AI%20adv%20student.jpeg"  height="500" />
+<img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/install%20zotero%20plugin.png"  height="400" />
 </p>
    
 4. Locate your downloaded xpi file and click Open
@@ -40,6 +40,11 @@ Better BibTeX is a plugin for Zotero that enhances its functionality for LaTeX u
 - To use Better BibTeX, you can right-click on any Zotero item or attachment and select Manage Attachments from the menu. You will see various options to rename, move, send, or get files from your tablet or cloud service. You can also extract annotations from PDFs by selecting Extract Annotations.
 - To export your library in BibTeX or BibLaTeX format, you can right-click on a collection or the whole library and select Export Collection. Then, choose Better BibTeX or Better BibLaTeX as the format and save the file.
 - To generate customized citation keys, you can use the Citation key formula option in the Better BibTeX Preferences. You can use various placeholders and modifiers to create your own pattern. For example, `[auth:lower][year][title:skipwords:select,1,1:lower:alphanum]` will generate keys like `shahizan2024slr`.
+
+<p align="center">
+<img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/better%20bibtex.png"  height="400" />
+</p>
+  
 - For more details and examples, read this [guide](https://tex.stackexchange.com/questions/702678/generating-citation-keys-with-zotero-and-better-bibtex-plugin).
   
 ## Contribution 🛠️
