@@ -34,13 +34,8 @@ Better BibTeX is a plugin for Zotero that enhances its functionality for LaTeX u
 - To use Better BibTeX, you can right-click on any Zotero item or attachment and select Manage Attachments from the menu. You will see various options to rename, move, send, or get files from your tablet or cloud service. You can also extract annotations from PDFs by selecting Extract Annotations.
 - To export your library in BibTeX or BibLaTeX format, you can right-click on a collection or the whole library and select Export Collection. Then, choose Better BibTeX or Better BibLaTeX as the format and save the file.
 - To generate customized citation keys, you can use the Citation key formula option in the Better BibTeX Preferences. You can use various placeholders and modifiers to create your own pattern. For example, `[auth:lower][year][title:skipwords:select,1,1:lower:alphanum]` will generate keys like `shahizan2024slr`.
-- For more details and examples, you can watch this [video tutorial](^3^) or read this [guide](^2^) or this [cheatsheet]. You can also visit the [Better BibTeX website] or the [GitHub repository] for more information and support.
-
-Source: Conversation with Bing, 16/02/2024
-(1) Installation :: Better BibTeX for Zotero - Retorque. https://retorque.re/zotero-better-bibtex/installation/.
-(2) Generating Citation Keys with Zotero and Better BibTex Plugin. https://tex.stackexchange.com/questions/702678/generating-citation-keys-with-zotero-and-better-bibtex-plugin.
-(3) Better BibTeX for Zotero - Retorque. https://retorque.re/zotero-better-bibtex/.
-
+- For more details and examples, read this [guide](https://tex.stackexchange.com/questions/702678/generating-citation-keys-with-zotero-and-better-bibtex-plugin).
+  
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian-slr/issues) for any improvements, suggestions or errors in the content.
 
