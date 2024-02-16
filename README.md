@@ -12,13 +12,18 @@ This repository hosts an Obsidian vault tailored for conducting a Systematic Lit
 
 ## Zotero Plugin
 ### 1. Zotfile
-ZotFile is a plugin for Zotero that helps you manage your attachments, such as PDFs. It can automatically rename, move, and sync your files with your mobile device or cloud storage. It can also extract annotations from PDFs and save them as Zotero notes. Here are the steps to install and use ZotFile:
+ZotFile is a third-party plugin for Zotero that helps you manage your attachments, such as PDFs. It can automatically rename, move, and sync your files with your mobile device or cloud storage. It can also extract annotations from PDFs and save them as Zotero notes. Here are the steps to install and use ZotFile:
 
-- To install ZotFile, download the extension file from [here](https://zotfile.com/) and save it to your computer.
-- Open Zotero and go to *Tools -> Add-ons -> Tools for all Add-ons* (the small, drop-down wheel in the top right corner) *-> Install Add-on From File* and select the downloaded file.
-- Restart Zotero and go to *Tools -> ZotFile Preferences* to configure the plugin settings according to your needs.
-- To use ZotFile, you can right-click on any Zotero item or attachment and select Manage Attachments from the menu. You will see various options to rename, move, send, or get files from your tablet or cloud service. You can also extract annotations from PDFs by selecting Extract Annotations.
-- For more details and examples, you can watch this [video tutorial](https://www.youtube.com/watch?v=faYJ4gEGZ40) or visit the [ZotFile website](http://zotfile.com) or the [GitHub repository](https://github.com/jlegewie/zotfile) for more information and support.
+#### To install and use ZotFile
+
+1. On the [ZotFile site]((https://zotfile.com/)), click **Download** and the **xpi file** will be downloaded. 
+2. In the Zotero application, go to *Tools > Add-Ons*.
+3. Click on the *gear icon* and choose *"Install Add-on from file"*
+4. Locate your downloaded xpi file and click Open
+5. Restart Zotero and go to *Tools -> ZotFile Preferences* to configure the plugin settings according to your needs.
+6. To use ZotFile, you can right-click on any Zotero item or attachment and select Manage Attachments from the menu. You will see various options to rename, move, send, or get files from your tablet or cloud service. You can also extract annotations from PDFs by selecting Extract Annotations.
+
+For more details and examples, you can watch this [video tutorial](https://www.youtube.com/watch?v=faYJ4gEGZ40) or visit the [ZotFile website](http://zotfile.com) or the [GitHub repository](https://github.com/jlegewie/zotfile) for more information and support.
 
 ### 2. Better BibTeX
 Better BibTeX is a plugin for Zotero that enhances its functionality for LaTeX users. It allows you to generate customized citation keys, export your library in BibTeX or BibLaTeX format, and sync your attachments with your tablet or cloud service. Here are the steps to install and use Better BibTeX:
