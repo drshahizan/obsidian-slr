@@ -20,14 +20,15 @@ ZotFile is a plugin for Zotero that helps you manage your attachments, such as P
 - To use ZotFile, you can right-click on any Zotero item or attachment and select Manage Attachments from the menu. You will see various options to rename, move, send, or get files from your tablet or cloud service. You can also extract annotations from PDFs by selecting Extract Annotations.
 - For more details and examples, you can watch this [video tutorial](https://www.youtube.com/watch?v=faYJ4gEGZ40) or visit the [ZotFile website](http://zotfile.com) or the [GitHub repository](https://github.com/jlegewie/zotfile) for more information and support.
 
+### 2. Better BibTeX
 Better BibTeX is a plugin for Zotero that enhances its functionality for LaTeX users. It allows you to generate customized citation keys, export your library in BibTeX or BibLaTeX format, and sync your attachments with your tablet or cloud service. Here are the steps to install and use Better BibTeX:
 
-- To install Better BibTeX, download the extension file from [here](^1^) and save it to your computer.
-- Open Zotero and go to Tools -> Add-ons -> Tools for all Add-ons (the small, drop-down wheel in the top right corner) -> Install Add-on From File and select the downloaded file.
-- Restart Zotero and go to Tools -> Better BibTeX Preferences to configure the plugin settings according to your needs.
+- To install Better BibTeX, download the extension file from [here](https://retorque.re/zotero-better-bibtex/installation) and save it to your computer.
+- Open Zotero and go to *Tools -> Add-ons -> Tools for all Add-ons* (the small, drop-down wheel in the top right corner) *-> Install Add-on From File* and select the downloaded file.
+- Restart Zotero and go to *Tools -> Better BibTeX Preferences* to configure the plugin settings according to your needs.
 - To use Better BibTeX, you can right-click on any Zotero item or attachment and select Manage Attachments from the menu. You will see various options to rename, move, send, or get files from your tablet or cloud service. You can also extract annotations from PDFs by selecting Extract Annotations.
 - To export your library in BibTeX or BibLaTeX format, you can right-click on a collection or the whole library and select Export Collection. Then, choose Better BibTeX or Better BibLaTeX as the format and save the file.
-- To generate customized citation keys, you can use the Citation key formula option in the Better BibTeX Preferences. You can use various placeholders and modifiers to create your own pattern. For example, `[auth:lower][year][title:skipwords:select,1,1:lower:alphanum]` will generate keys like `smith2020some`.
+- To generate customized citation keys, you can use the Citation key formula option in the Better BibTeX Preferences. You can use various placeholders and modifiers to create your own pattern. For example, `[auth:lower][year][title:skipwords:select,1,1:lower:alphanum]` will generate keys like `shahizan2024slr`.
 - For more details and examples, you can watch this [video tutorial](^3^) or read this [guide](^2^) or this [cheatsheet]. You can also visit the [Better BibTeX website] or the [GitHub repository] for more information and support.
 
 Source: Conversation with Bing, 16/02/2024
