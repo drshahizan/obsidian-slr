@@ -67,6 +67,7 @@ Better BibTeX is a plugin for Zotero that enhances its functionality for LaTeX u
 For more details and examples, read this [guide](https://tex.stackexchange.com/questions/702678/generating-citation-keys-with-zotero-and-better-bibtex-plugin).
 
 ### 4. Obsidian Plugins
+Obsidian is a powerful note-taking app that allows you to create and link your notes in various ways. To enhance your note-taking experience, you can use plugins that add extra features and functionalities to Obsidian. The plugins used in this vault are as follows:
 
 | No. | Plugins | Description |
 | --- | --- | --- |
@@ -82,7 +83,8 @@ For more details and examples, read this [guide](https://tex.stackexchange.com/q
 | 10 | [Kanban](https://github.com/mgmeyers/obsidian-kanban) | A plugin that allows you to create and manage kanban boards in your notes. |
 | 11 | [Zotero Integration](https://github.com/mgmeyers/obsidian-zotero-integration) | A plugin that integrates Zotero, a tool for managing bibliographic data, into your notes. |
 
-  
+These plugins can help you make your notes more organized, informative, and creative. You can install them from the Obsidian community plugins page or from their GitHub repositories.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian-slr/issues) for any improvements, suggestions or errors in the content.
 
