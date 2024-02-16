@@ -19,7 +19,7 @@ This repository hosts an Obsidian vault tailored for conducting a Systematic Lit
 
 To use the Obsidian Vault for Systematic Literature Reviews, please follow these steps:
 
-1. Click on this link¹ to download the file named **mySLR_mso.zip**.
+1. Click on this link¹ to download the file named **[mySLR_mso.zip](https://liveutm-my.sharepoint.com/:u:/g/personal/shahizan_live_utm_my/EeIfLfYB5A9Nh-QJ79jlABoB2h24eBhbtI_kEuVEFsQQGg?e=uQvKhJ)**.
 2. Extract the file to a folder of your choice.
 3. Install Obsidian software from [this website](https://obsidian.md/download) if you don't have it already.
 4. Open Obsidian and select **Open another vault**.
