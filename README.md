@@ -15,8 +15,18 @@ This repository hosts an Obsidian vault tailored for conducting a Systematic Lit
 ### 1. Fork and Star the Obsidian-slr Repository
    To prepare for our first session, please **fork** and **star** the repository named "obsidian-slr" on my GitHub account. You can find it [here](https://github.com/drshahizan/obsidian-slr). We will use this repository a lot during the workshop.
 
+### 2. Download Obsidian Vault for Systematic Literature Reviews
 
-### 3.Install Zotero Plugin
+To use the Obsidian Vault for Systematic Literature Reviews, please follow these steps:
+
+1. Click on this link¹ to download the file named **mySLR_mso.zip**.
+2. Extract the file to a folder of your choice.
+3. Install Obsidian software from [this website](https://obsidian.md/download) if you don't have it already.
+4. Open Obsidian and select **Open another vault**.
+5. Choose the folder where you extracted the file in step 2.
+6. You can now access the Obsidian Vault for Systematic Literature Reviews and start your training.
+
+### 3. Install Zotero Plugin
 
 #### a. Zotfile
 ZotFile is a third-party plugin for Zotero that helps you manage your attachments, such as PDFs. It can automatically rename, move, and sync your files with your mobile device or cloud storage. It can also extract annotations from PDFs and save them as Zotero notes. Here are the steps to install and use ZotFile:
