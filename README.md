@@ -78,14 +78,15 @@ Obsidian is a powerful note-taking app that allows you to create and link your n
 | 2 | [Autocomplete](https://github.com/yeboster/autocomplete-obsidian) | A plugin that provides autocomplete suggestions for words, tags, links, and commands in your notes. |
 | 3 | [Better Word Count](https://github.com/lukeleppan/better-word-count) | A plugin that shows the word count, character count, and reading time of your notes in the status bar. |
 | 4 | [Calendar](https://github.com/liamcain/obsidian-calendar-plugin) | A plugin that adds a calendar view to your notes, where you can see and create notes based on dates. |
-| 5 | [cMenu Plugin](https://github.com/chetachiezikeuzor/cMenu-Plugin) | A plugin that adds a customizable context menu to your notes, where you can access various commands and actions. |
+| 5 | [cMenu](https://github.com/chetachiezikeuzor/cMenu-Plugin) | A plugin that adds a customizable context menu to your notes, where you can access various commands and actions. |
 | 6 | [Dataview](https://github.com/blacksmithgu/obsidian-dataview) | A plugin that allows you to query, filter, sort, and display data from your notes using a simple query language. |
 | 7 | [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) | A plugin that integrates Excalidraw, a tool for creating hand-drawn diagrams, into your notes. |
 | 8 | [Iconize](https://github.com/FlorianWoelki/obsidian-icon-folder) | A plugin that lets you add icons to your folders and notes in the file explorer. |
-| 9 | [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list) | A plugin that generates a reference list from your citations using Pandoc. |
+| 9 | [Pandoc Reference](https://github.com/mgmeyers/obsidian-pandoc-reference-list) | A plugin that generates a reference list from your citations using Pandoc. |
 | 10 | [Kanban](https://github.com/mgmeyers/obsidian-kanban) | A plugin that allows you to create and manage kanban boards in your notes. |
 | 11 | [Zotero Integration](https://github.com/mgmeyers/obsidian-zotero-integration) | A plugin that integrates Zotero, a tool for managing bibliographic data, into your notes. |
 | 12 | [Meta bind](https://www.moritzjung.dev/obsidian-meta-bind-plugin-docs/) | A plugin that allows you to create input and view fields inside your notes. Those input and view fields can then be bound to frontmatter properties, which keeps them in sync those frontmatter properties. Allowing you to edit and view your frontmatter properties inside your notes.|
+|13| [Templater](https://github.com/SilentVoid13/Templater)| Templater is a template plugin for Obsidian.md. It defines a templating language that lets you insert variables and functions results into your notes. It will also let you execute JavaScript code manipulating those variables and functions.|
 
 These plugins can help you make your notes more organized, informative, and creative. You can install them from the Obsidian community plugins page or from their GitHub repositories.
 
