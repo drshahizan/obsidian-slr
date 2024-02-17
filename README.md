@@ -94,7 +94,11 @@ To check for updates for your plugins, please follow these steps:
 </p>
 
 ### 5. Install GitHub Desktop
-GitHub Desktop is a free and open source application that lets you interact with GitHub repositories using a graphical user interface. You can use it to clone, create, commit, push, pull, and merge your code, as well as manage branches, issues, pull requests, and more¹.
+GitHub Desktop is a free and open source application that lets you interact with GitHub repositories using a graphical user interface. You can use it to clone, create, commit, push, pull, and merge your code, as well as manage branches, issues, pull requests, and more.
+
+<p align="center">
+<img src="https://desktop.github.com/images/screenshot-macos-light.png"  height="300" />
+</p>
 
 To install GitHub Desktop, you need to have a supported operating system, which currently include macOS 10.13 or later and Windows 10 64-bit or later². Here are the steps for each platform:
 
