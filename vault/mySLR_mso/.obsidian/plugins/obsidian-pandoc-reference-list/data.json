@@ -1,0 +1,17 @@
+{
+  "pathToPandoc": "/opt/homebrew/bin/pandoc",
+  "tooltipDelay": 800,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library",
+      "lastUpdate": 1707882681769
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "/Users/mso_mac22/Downloads/MySLR/MySLR.bib",
+  "showCitekeyTooltips": false,
+  "pullFromZotero": false
+}

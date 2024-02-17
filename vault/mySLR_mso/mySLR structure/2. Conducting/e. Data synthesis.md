@@ -1,0 +1,1 @@
+The synthesis of the extracted data can be presented in different forms. Usually, tables, graphs and other artifacts are used to facilitate the visualization of this information. This step can be performed in conjunction with the previous step.
