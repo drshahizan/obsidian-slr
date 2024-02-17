@@ -85,7 +85,7 @@ Obsidian is a powerful note-taking app that allows you to create and link your n
 | 9 | [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list) | A plugin that generates a reference list from your citations using Pandoc. |
 | 10 | [Kanban](https://github.com/mgmeyers/obsidian-kanban) | A plugin that allows you to create and manage kanban boards in your notes. |
 | 11 | [Zotero Integration](https://github.com/mgmeyers/obsidian-zotero-integration) | A plugin that integrates Zotero, a tool for managing bibliographic data, into your notes. |
-| 12 | Meta bind | A plugin that allows you to create input and view fields inside your notes. Those input and view fields can then be bound to frontmatter properties, which keeps them in sync those frontmatter properties. Allowing you to edit and view your frontmatter properties inside your notes.|
+| 12 | [Meta bind](https://www.moritzjung.dev/obsidian-meta-bind-plugin-docs/) | A plugin that allows you to create input and view fields inside your notes. Those input and view fields can then be bound to frontmatter properties, which keeps them in sync those frontmatter properties. Allowing you to edit and view your frontmatter properties inside your notes.|
 
 These plugins can help you make your notes more organized, informative, and creative. You can install them from the Obsidian community plugins page or from their GitHub repositories.
 
