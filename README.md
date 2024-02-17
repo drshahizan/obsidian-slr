@@ -13,7 +13,7 @@ This repository hosts an Obsidian vault tailored for conducting a Systematic Lit
 ## What You Need to Do Before Joining this class 🚀
 
 ### 1. Fork and Star the Obsidian-slr Repository
-   To prepare for our first session, please **fork** and **star** the repository named "obsidian-slr" on my GitHub account. You can find it [here](https://github.com/drshahizan/obsidian-slr). We will use this repository a lot during the workshop.
+   Please **fork** and **star** the repository named "obsidian-slr". You can find it [here](https://github.com/drshahizan/obsidian-slr). We will use this repository a lot during the workshop.
 
 ### 2. Download Obsidian Vault for Systematic Literature Reviews
 
