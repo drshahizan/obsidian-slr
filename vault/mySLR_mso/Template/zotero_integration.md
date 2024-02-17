@@ -5,6 +5,8 @@ year: {{date | format("YYYY")}}
 publisher: {{publicationTitle}}
 keywords: [{{allTags}}]
 citekey: {{citekey}}
+itemType: {{itemType}}
+notes: {{notes}}
 tags:
 ---
 > [!meta]- Metadata

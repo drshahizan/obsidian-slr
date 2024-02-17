@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiHomeassistant",
+      "TiHomeHeart",
+      "SiMicrosoftonenote",
       "TiTemplate",
-      "TiTools",
-      "TiFileTypePdf",
-      "SiReadthedocs",
-      "TiNotebook"
+      "TiTools"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,8 @@
   "Research diary/Kanban SLR.md": "SiAbbrobotstudio",
   "Literature_collection": "TiDatabaseStar",
   "Template": "TiTemplate",
-  "README.md": "SiReadthedocs"
+  "README.md": "SiReadthedocs",
+  "Notes": "SiMicrosoftonenote",
+  "Research diary/Meeting/Research Meetings.md": "TiHomeHeart",
+  "Research diary/Daily Notes/Summary Daily Notes.md": "SiHomeassistant"
 }

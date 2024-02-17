@@ -9,5 +9,7 @@
   "better-word-count",
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
-  "obsidian-zotero-desktop-connector"
+  "obsidian-zotero-desktop-connector",
+  "templater-obsidian",
+  "obsidian-meta-bind-plugin"
 ]

@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0a4afe2f1245b5d0",
+        "id": "c0de6fd285f58a23",
         "type": "tabs",
         "children": [
           {
-            "id": "dc3f8c2d672356a5",
+            "id": "db63fa6128c4c731",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Literature table/All paper.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -32,7 +32,7 @@
       {
         "id": "440f380322d177a2",
         "type": "tabs",
-        "dimension": 55.55555555555556,
+        "dimension": 75.22222222222223,
         "children": [
           {
             "id": "4011301bc14b4afa",
@@ -65,7 +65,7 @@
       {
         "id": "bdf6323dee8835fe",
         "type": "tabs",
-        "dimension": 22.22222222222222,
+        "dimension": 24.77777777777778,
         "children": [
           {
             "id": "c7a084cf6dae830f",
@@ -77,14 +77,7 @@
                 "useHierarchy": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "90e7f671e6db1975",
-        "type": "tabs",
-        "dimension": 22.22222222222222,
-        "children": [
+          },
           {
             "id": "a08ba080949b355b",
             "type": "leaf",
@@ -92,8 +85,24 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "0d16a1d273eefe79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#paper_review",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +115,7 @@
       {
         "id": "dfc3ac43caaebec9",
         "type": "tabs",
-        "dimension": 42.66666666666667,
+        "dimension": 54.85714285714286,
         "children": [
           {
             "id": "2a7a3abe15749c95",
@@ -114,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Literature table/All paper.md"
               }
             }
           },
@@ -140,7 +149,7 @@
       {
         "id": "3ef71bdef75fb4cb",
         "type": "tabs",
-        "dimension": 35.11111111111111,
+        "dimension": 45.14285714285714,
         "children": [
           {
             "id": "b27dc0f936788285",
@@ -148,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Literature table/All paper.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Literature table/All paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,43 +179,14 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "6354a5d3c65bc9f5",
-            "type": "leaf",
-            "state": {
-              "type": "ReferenceListView",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "2c1e0be5a0fe43b6",
-        "type": "tabs",
-        "dimension": 22.22222222222222,
-        "children": [
-          {
-            "id": "0d16a1d273eefe79",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#paper_review",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabeticalReverse"
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,48 +196,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "0d16a1d273eefe79",
+  "active": "db63fa6128c4c731",
   "lastOpenFiles": [
-    "Literature_collection/alam_2017.md",
-    "Literature_collection/al-garadi_2020.md",
-    "Drawing/PRISMA.md",
-    "README.md",
-    "Images/github.png",
-    "Tools/SR Accelerator.md",
-    "Tools/Parsifal.md",
-    "Material SLR/Define research.md",
-    "Literature table/No tagging.md",
-    "Literature table/IoT.md",
-    "Literature table/All paper.md",
-    "Literature table/Review paper.md",
-    "Literature_collection/al-garadi_2020/image-4-x65-y194.png",
-    "mySLR structure/Structure of a systematic literature review.md",
-    "mySLR structure/How to conduct SLR.md",
-    "mySLR structure/Benefits and Drawbacks of a Graduate Course.md",
+    "Literature_collection/zuo_2023.md",
     "Template/zotero_integration.md",
+    "Literature_collection/abualigah_2021.md",
+    "Literature_collection/abual-haija_2023.md",
+    "Literature_collection/al-garadi_2020.md",
+    "Research diary/Meeting/2024-02-17 IIRG Meeting 1.md",
+    "Research diary/Daily Notes/2024-02-17.md",
+    "Research diary/Daily Notes/Summary Daily Notes.md",
+    "Template/Daily.md",
+    "Template/Meeting.md",
+    "Research diary/Meeting/2024-02-17 MSO.md",
+    "Research diary/Meeting/Research Meetings.md",
+    "Research diary/Daily Notes/17-02-2024.md",
+    "2017-02-21-Tuesday.md",
+    "+Home.md",
+    "Template, Meeting.md",
+    "Template/Weekly.md",
+    "Timestamps/Meetings",
+    "Timestamps",
+    "Example.md",
+    "Research diary/Daily Notes/17 Feb 2024.md",
+    "2024-02-18-Sunday.md",
+    "2024-02-16-Friday.md",
+    "Invalid date.md",
+    "Research diary/Weekly/Untitled.md",
+    "Research diary/Daily Notes/Untitled 1.md",
+    "Template/Calendar Entry.md",
+    "Untitled.md",
+    "Notes",
+    "Research diary/Weekly",
+    "Research diary/Meeting",
+    "Research diary/Daily Notes",
+    "Images/github.png",
+    "Literature_collection/al-garadi_2020/image-4-x65-y194.png",
     "Literature_collection/al-garadi_2020",
-    "Literature_collection/Aazam2015.md",
-    "Literature_collection/zabihiReinforcementLearningMethods2024.md",
-    "Literature_collection/mohammadiSemisupervisedDeepReinforcement2018.md",
-    "Literature_collection/Moglia.etal2022.md",
-    "Literature_collection/Badri.etal2023.md",
-    "Literature_collection/abosaqBLOCKCHAINENABLEDIOTS2021.md",
-    "Literature_collection/alharthy2022.md",
-    "Literature_collection/Abualigah.etal2021.md",
-    "Literature_collection/Alizadeh.etal2020.md",
-    "Literature_collection/abual-haijaApplicationsBlockchainTechnology2023.md",
-    "Literature_collection/abdulkareemFIPCAIoTNetwork2022.md",
     "Paper/benefit SLR.pdf",
     "zotero_annotations",
-    "Template",
-    "Tools",
-    "Paper/How to conduct SLR.pdf",
-    "Paper",
-    "Images",
-    "PRISMA",
-    "Excalidraw"
+    "Template"
   ]
 }
