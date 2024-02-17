@@ -19,7 +19,7 @@ This repository hosts an Obsidian vault tailored for conducting a Systematic Lit
 
 To use the Obsidian Vault for Systematic Literature Reviews, please follow these steps:
 
-1. Click on this link¹ to download the file named **[mySLR_mso.zip](https://liveutm-my.sharepoint.com/:u:/g/personal/shahizan_live_utm_my/EeIfLfYB5A9Nh-QJ79jlABoB2h24eBhbtI_kEuVEFsQQGg?e=uQvKhJ)**.
+1. Click on this link to download the file named **[mySLR_mso.zip](https://liveutm-my.sharepoint.com/:u:/g/personal/shahizan_live_utm_my/EeIfLfYB5A9Nh-QJ79jlABoB2h24eBhbtI_kEuVEFsQQGg?e=uQvKhJ)**.
 2. Extract the file to a folder of your choice.
 3. Install Obsidian software from [this website](https://obsidian.md/download) if you don't have it already.
 4. Open Obsidian and select **Open another vault**.
@@ -36,7 +36,7 @@ ZotFile is a third-party plugin for Zotero that helps you manage your attachment
 3. Click on the *gear icon* and choose *"Install Add-on from file"*
 
 <p align="center">
-<img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/install%20zotero%20plugin.png"  height="200" />
+<img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/install%20zotero%20plugin.png" height="200" />
 </p>
    
 4. Locate your downloaded xpi file and click Open
@@ -90,7 +90,7 @@ To check for updates for your plugins, please follow these steps:
 2. Click on the **Check for updates** button. You will update all plugins.
 
 <p align="center">
-<img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/plugin%20update.png"  height="300" />
+<img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/plugin%20update.png" height="300" />
 </p>
 
 ### 5. Install GitHub Desktop
@@ -100,7 +100,7 @@ GitHub Desktop is a free and open source application that lets you interact with
 <img src="https://desktop.github.com/images/screenshot-macos-light.png"  height="300" />
 </p>
 
-To install GitHub Desktop, you need to have a supported operating system, which currently include macOS 10.13 or later and Windows 10 64-bit or later². Here are the steps for each platform:
+To install GitHub Desktop, you need to have a supported operating system, which currently include macOS 10.13 or later and Windows 10 64-bit or later. Here are the steps for each platform:
 
 - **macOS**:
     1. Visit the [download page](https://desktop.github.com/) for GitHub Desktop.
@@ -115,7 +115,6 @@ To install GitHub Desktop, you need to have a supported operating system, which 
     3. In your computer's Downloads folder, double-click the **GitHubDesktopSetup.exe** file.
     4. Allow the installation to download and install.
     5. Launch GitHub Desktop and sign in with your GitHub account.
-
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian-slr/issues) for any improvements, suggestions or errors in the content.
