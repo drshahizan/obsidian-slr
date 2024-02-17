@@ -5,6 +5,9 @@
 <a href="https://github.com/drshahizan/obsidian-slr/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/obsidian-slr?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2obsidian-slr&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+<p align="center">
+<img src="https://github.com/drshahizan/SLR-FC/blob/main/images/workshop%20stage%203.jpeg"  height="500" />
+</p>
 
 # Obsidian Vault for Systematic Literature Reviews in Computer Science
 
