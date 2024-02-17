@@ -93,6 +93,26 @@ To check for updates for your plugins, please follow these steps:
 <img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/plugin%20update.png"  height="300" />
 </p>
 
+### 5. Install GitHub Desktop
+GitHub Desktop is a free and open source application that lets you interact with GitHub repositories using a graphical user interface. You can use it to clone, create, commit, push, pull, and merge your code, as well as manage branches, issues, pull requests, and more¹.
+
+To install GitHub Desktop, you need to have a supported operating system, which currently include macOS 10.13 or later and Windows 10 64-bit or later². Here are the steps for each platform:
+
+- **macOS**:
+    1. Visit the [download page](https://desktop.github.com/) for GitHub Desktop.
+    2. Click **Download for macOS**.
+    3. In your computer's Downloads folder, double-click the **GitHub Desktop.zip** file.
+    4. Unpack the application and put it wherever you want.
+    5. Launch GitHub Desktop and sign in with your GitHub account.
+
+- **Windows**:
+    1. Visit the [download page](https://desktop.github.com/) for GitHub Desktop.
+    2. Click **Download for Windows**.
+    3. In your computer's Downloads folder, double-click the **GitHubDesktopSetup.exe** file.
+    4. Allow the installation to download and install.
+    5. Launch GitHub Desktop and sign in with your GitHub account.
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian-slr/issues) for any improvements, suggestions or errors in the content.
 
