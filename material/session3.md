@@ -25,7 +25,7 @@ Obsidian is a powerful note-taking app that allows you to create and link your n
 
 
 #### 1. Charts Plugin
-This plugin, available at [https://github.com/phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts), enables users to create editable, interactive, and animated charts in Obsidian using Chart.js. It supports a variety of chart types, including pie, bar, line, radar, and more. Users can customize these charts with various options to suit their needs.
+[Charts plugin](https://github.com/phibr0/obsidian-charts) enables users to create editable, interactive, and animated charts in Obsidian using Chart.js. It supports a variety of chart types, including pie, bar, line, radar, and more. Users can customize these charts with various options to suit their needs.
 
 **How to install**
 - Go to **Community Plugins** in your Obsidian Settings and disable Safe Mode
@@ -47,7 +47,7 @@ This plugin, available at [https://github.com/phibr0/obsidian-charts](https://gi
 </p>
 
 #### 2. Chartview Plugin
-The Chartview plugin, found at [https://github.com/caronchen/obsidian-chartsview-plugin](https://github.com/caronchen/obsidian-chartsview-plugin), offers another data visualization solution in Obsidian. It is based on Ant Design Charts and supports plots and graphs such as word clouds, treemaps, dual axes, mix, organization tree graph, and more. Users can import data from external or internal CSV files or generate data using dataviewjs.
+The [Chartview plugin](https://github.com/caronchen/obsidian-chartsview-plugin) offers another data visualization solution in Obsidian. It is based on Ant Design Charts and supports plots and graphs such as word clouds, treemaps, dual axes, mix, organization tree graph, and more. Users can import data from external or internal CSV files or generate data using dataviewjs.
 
 **Chart Wizard**
 Use command Charts View: Wizard to insert code block.
@@ -67,7 +67,7 @@ Use command Charts View: Wizard to insert code block.
 #### 3. Pandoc Plugin
 
 
-The Pandoc Plugin, available at [https://github.com/OliverBalfour/obsidian-pandoc](https://github.com/OliverBalfour/obsidian-pandoc), allows users to export their notes to a variety of formats using Pandoc, a command-line tool for document conversion. Supported export formats include Word, PDF, ePub, HTML, PowerPoint, LaTeX, and more. Users can also use Pandoc templates and citations to customize the output according to their preferences.
+The [Pandoc Plugin](https://github.com/OliverBalfour/obsidian-pandoc) allows users to export their notes to a variety of formats using Pandoc, a command-line tool for document conversion. Supported export formats include Word, PDF, ePub, HTML, PowerPoint, LaTeX, and more. Users can also use Pandoc templates and citations to customize the output according to their preferences.
 
 This lets you **write presentations, draft books, make webpages**, and **write assignments** all in Markdown, and export to whichever format you fancy, all without leaving Obsidian.
 
@@ -77,20 +77,33 @@ This lets you **write presentations, draft books, make webpages**, and **write a
 </p>
 
 **Basic usage**
-- Press Ctrl+P/Cmd+P to show the command palette
-- Search "Pandoc"
+- Press `Ctrl+P/Cmd+P` to show the command palette
+- Search `Pandoc`
 - Choose your export format
 - If all goes well, it will say it was successful
-- If you exported a file called Pandoc.md as a Word Document, in your file explorer there will be a Pandoc.docx file in the same folder
+- If you exported a file called `Pandoc.md` as a Word Document, in your file explorer there will be a `Pandoc.docx` file in the same folder
+
+**Troubleshooting**
+
+A common issue is that the settings page will display the red error message `Pandoc is not installed or accessible on your PATH. This plugin's functionality will be limited.`
+
+If you encounter this issue:
+1. Open the plugin settings and scroll to the bottom
+2. There is a setting called `Pandoc path`. Set this setting to:
+   - Mac/Linux: the output of `which pandoc` in a terminal
+   - Windows: the output of `Get-Command pandoc` in PowerShell
+
+After fixing it, relaunch Obsidian and it should  work!
+
+
 
 #### 4. Pandoc Reference List Plugin
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/mgmeyers/obsidian-pandoc-reference-list/main/Screen%20Shot.png"  height="300" /> <br>
-
 </p>
 
-The Pandoc Reference List plugin, located at [https://github.com/mgmeyers/obsidian-pandoc-reference-list](https://github.com/mgmeyers/obsidian-pandoc-reference-list), provides a formatted reference in the sidebar for each Pandoc citekey present in the current document. It utilizes Pandoc to generate the reference style, and users can choose from thousands of CSL styles. To use this plugin, users need to supply a compatible bibliography file, such as a .bib or .json file, which contains the references.
+The [Pandoc Reference List plugin](https://github.com/mgmeyers/obsidian-pandoc-reference-list) provides a formatted reference in the sidebar for each Pandoc citekey present in the current document. It utilizes Pandoc to generate the reference style, and users can choose from thousands of CSL styles. To use this plugin, users need to supply a compatible bibliography file, such as a .bib or .json file, which contains the references.
 
 **Set up instructions**
 
