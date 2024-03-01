@@ -49,10 +49,19 @@ This plugin, available at [https://github.com/phibr0/obsidian-charts](https://gi
 #### 2. Chartview Plugin
 The Chartview plugin, found at [https://github.com/caronchen/obsidian-chartsview-plugin](https://github.com/caronchen/obsidian-chartsview-plugin), offers another data visualization solution in Obsidian. It is based on Ant Design Charts and supports plots and graphs such as word clouds, treemaps, dual axes, mix, organization tree graph, and more. Users can import data from external or internal CSV files or generate data using dataviewjs.
 
+**Chart Wizard**
+Use command Charts View: Wizard to insert code block.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/150803/208235339-87f12358-b276-43d5-bdb1-f6ce92cfdbae.png"  height="150" /> <br>
+<img src="https://user-images.githubusercontent.com/150803/208235398-8deeccff-33c7-42e0-9d9a-925a4b2bffa8.png"  height="300" /> 
+
+</p>
+
 **Sample** 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/150803/136478725-be28a56b-0075-4f0a-a719-f61b30e83b6a.png"  height="200" />   <img src="https://user-images.githubusercontent.com/150803/119069882-87c95700-ba19-11eb-8cef-02d1e021d1a2.png"  height="300" /> <br>
-<img src="https://user-images.githubusercontent.com/150803/119069991-bba47c80-ba19-11eb-873f-847563daea39.png"  height="300" />   <img src="https://user-images.githubusercontent.com/150803/119070047-decf2c00-ba19-11eb-9d59-21c051da593c.png"  height="300" />
+<img src="https://user-images.githubusercontent.com/150803/119069991-bba47c80-ba19-11eb-873f-847563daea39.png"  height="200" />   <img src="https://user-images.githubusercontent.com/150803/119070047-decf2c00-ba19-11eb-9d59-21c051da593c.png"  height="200" />
 </p>
 
 #### 3. Pandoc Plugin
