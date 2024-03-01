@@ -27,6 +27,13 @@ Obsidian is a powerful note-taking app that allows you to create and link your n
 #### 1. Charts Plugin
 This plugin, available at [https://github.com/phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts), enables users to create editable, interactive, and animated charts in Obsidian using Chart.js. It supports a variety of chart types, including pie, bar, line, radar, and more. Users can customize these charts with various options to suit their needs.
 
+**How to install**
+- Go to **Community Plugins** in your Obsidian Settings and disable Safe Mode
+- Click on **Browse** and search for "Charts"
+- Click install
+- Toggle the Plugin on in the **Community Plugins** Tab
+
+
 #### 2. Chartview Plugin
 The Chartview plugin, found at [https://github.com/caronchen/obsidian-chartsview-plugin](https://github.com/caronchen/obsidian-chartsview-plugin), offers another data visualization solution in Obsidian. It is based on Ant Design Charts and supports plots and graphs such as word clouds, treemaps, dual axes, mix, organization tree graph, and more. Users can import data from external or internal CSV files or generate data using dataviewjs.
 
