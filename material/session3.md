@@ -79,6 +79,8 @@ This lets you **write presentations, draft books, make webpages**, and **write a
 A common issue is that the settings page will display the red error message `Pandoc is not installed or accessible on your PATH. This plugin's functionality will be limited.`
 
 If you encounter this issue:
+**[Installing pandoc](https://pandoc.org/installing.html)**
+
 1. Open the plugin settings and scroll to the bottom
 2. There is a setting called `Pandoc path`. Set this setting to:
    - Mac/Linux: the output of `which pandoc` in a terminal
