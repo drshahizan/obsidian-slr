@@ -49,6 +49,12 @@ This plugin, available at [https://github.com/phibr0/obsidian-charts](https://gi
 #### 2. Chartview Plugin
 The Chartview plugin, found at [https://github.com/caronchen/obsidian-chartsview-plugin](https://github.com/caronchen/obsidian-chartsview-plugin), offers another data visualization solution in Obsidian. It is based on Ant Design Charts and supports plots and graphs such as word clouds, treemaps, dual axes, mix, organization tree graph, and more. Users can import data from external or internal CSV files or generate data using dataviewjs.
 
+**Sample** 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/150803/136478725-be28a56b-0075-4f0a-a719-f61b30e83b6a.png"  height="200" />   <img src="https://user-images.githubusercontent.com/150803/119069882-87c95700-ba19-11eb-8cef-02d1e021d1a2.png"  height="300" /> <br>
+<img src="https://user-images.githubusercontent.com/150803/119069991-bba47c80-ba19-11eb-873f-847563daea39.png"  height="300" />   <img src="https://user-images.githubusercontent.com/150803/119070047-decf2c00-ba19-11eb-9d59-21c051da593c.png"  height="300" />
+</p>
+
 #### 3. Pandoc Plugin
 The Pandoc Plugin, available at [https://github.com/OliverBalfour/obsidian-pandoc](https://github.com/OliverBalfour/obsidian-pandoc), allows users to export their notes to a variety of formats using Pandoc, a command-line tool for document conversion. Supported export formats include Word, PDF, ePub, HTML, PowerPoint, LaTeX, and more. Users can also use Pandoc templates and citations to customize the output according to their preferences.
 
