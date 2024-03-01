@@ -18,10 +18,23 @@ Obsidian is a powerful note-taking app that allows you to create and link your n
 
 | No. | Plugins | Description |
 | --- | --- | --- |
-| 1 | [Charts](https://github.com/valentine195/obsidian-admonition) | A plugin that allows you to create block-styled admonitions (notes, warnings, tips, etc.) in your notes. |
-| 2 | [Chartview](https://github.com/yeboster/autocomplete-obsidian) | A plugin that provides autocomplete suggestions for words, tags, links, and commands in your notes. |
-| 3 | [Pandoc Plugin](https://github.com/lukeleppan/better-word-count) | A plugin that shows the word count, character count, and reading time of your notes in the status bar. |
-| 4 | [Pandoc Reference List](https://github.com/liamcain/obsidian-calendar-plugin) | A plugin that adds a calendar view to your notes, where you can see and create notes based on dates. |
+| 1 | [Charts](https://github.com/phibr0/obsidian-charts) | This plugin lets you create editable, interactive and animated charts in Obsidian via Chart.js. You can use different types of charts, such as pie, bar, line, radar, etc., and customize them with various options. |
+| 2 | [Chartview](https://github.com/caronchen/obsidian-chartsview-plugin) | This plugin is another data visualization solution in Obsidian, based on Ant Design Charts. It supports plots and graphs, such as word cloud, treemap, dual axes, mix, organization tree graph, etc. You can also import data from external or internal CSV files, or use dataviewjs to generate data. |
+| 3 | [Pandoc Plugin](https://github.com/OliverBalfour/obsidian-pandoc) | This plugin allows you to export your notes to a variety of formats using Pandoc, a command-line tool for document conversion. You can export to formats such as Word, PDF, ePub, HTML, PowerPoint, LaTeX, and many more. You can also use Pandoc templates and citations to customize your output. |
+| 4 | [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list) | This plugin displays a formatted reference in the sidebar for each Pandoc citekey present in the current document. It uses Pandoc to generate the reference style, and you can choose from thousands of CSL styles. You also need to supply a compatible bibliography file, such as a .bib or .json file. |
+
+
+#### 1. Charts Plugin
+This plugin, available at [https://github.com/phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts), enables users to create editable, interactive, and animated charts in Obsidian using Chart.js. It supports a variety of chart types, including pie, bar, line, radar, and more. Users can customize these charts with various options to suit their needs.
+
+#### 2. Chartview Plugin
+The Chartview plugin, found at [https://github.com/caronchen/obsidian-chartsview-plugin](https://github.com/caronchen/obsidian-chartsview-plugin), offers another data visualization solution in Obsidian. It is based on Ant Design Charts and supports plots and graphs such as word clouds, treemaps, dual axes, mix, organization tree graph, and more. Users can import data from external or internal CSV files or generate data using dataviewjs.
+
+#### 3. Pandoc Plugin
+The Pandoc Plugin, available at [https://github.com/OliverBalfour/obsidian-pandoc](https://github.com/OliverBalfour/obsidian-pandoc), allows users to export their notes to a variety of formats using Pandoc, a command-line tool for document conversion. Supported export formats include Word, PDF, ePub, HTML, PowerPoint, LaTeX, and more. Users can also use Pandoc templates and citations to customize the output according to their preferences.
+
+#### 4. Pandoc Reference List Plugin**
+The Pandoc Reference List plugin, located at [https://github.com/mgmeyers/obsidian-pandoc-reference-list](https://github.com/mgmeyers/obsidian-pandoc-reference-list), provides a formatted reference in the sidebar for each Pandoc citekey present in the current document. It utilizes Pandoc to generate the reference style, and users can choose from thousands of CSL styles. To use this plugin, users need to supply a compatible bibliography file, such as a .bib or .json file, which contains the references.
 
 
 These plugins can help you make your notes more organized, informative, and creative. You can install them from the Obsidian community plugins page or from their GitHub repositories.
