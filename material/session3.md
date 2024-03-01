@@ -11,45 +11,37 @@
 
 # Session 3: Mastering the Art of Crafting a SLR
 
-## What You Need to Do Before Joining this class 🚀
+**What You Need to Do Before Joining this class** 🚀
 
-### 1. Obsidian Plugins
+## A. Obsidian Plugins
 Obsidian is a powerful note-taking app that allows you to create and link your notes in various ways. To enhance your note-taking experience, you can use plugins that add extra features and functionalities to Obsidian. The plugins used in this vault are as follows:
 
-| No. | Plugins | Description |
-| --- | --- | --- |
-| 1 | [Charts](https://github.com/phibr0/obsidian-charts) | This plugin lets you create editable, interactive and animated charts in Obsidian via Chart.js. You can use different types of charts, such as pie, bar, line, radar, etc., and customize them with various options. |
-| 2 | [Chartview](https://github.com/caronchen/obsidian-chartsview-plugin) | This plugin is another data visualization solution in Obsidian, based on Ant Design Charts. It supports plots and graphs, such as word cloud, treemap, dual axes, mix, organization tree graph, etc. You can also import data from external or internal CSV files, or use dataviewjs to generate data. |
-| 3 | [Pandoc Plugin](https://github.com/OliverBalfour/obsidian-pandoc) | This plugin allows you to export your notes to a variety of formats using Pandoc, a command-line tool for document conversion. You can export to formats such as Word, PDF, ePub, HTML, PowerPoint, LaTeX, and many more. You can also use Pandoc templates and citations to customize your output. |
-| 4 | [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list) | This plugin displays a formatted reference in the sidebar for each Pandoc citekey present in the current document. It uses Pandoc to generate the reference style, and you can choose from thousands of CSL styles. You also need to supply a compatible bibliography file, such as a .bib or .json file. |
-
-
-#### 1. Charts Plugin
+### 1. Charts Plugin
 [Charts plugin](https://github.com/phibr0/obsidian-charts) enables users to create editable, interactive, and animated charts in Obsidian using Chart.js. It supports a variety of chart types, including pie, bar, line, radar, and more. Users can customize these charts with various options to suit their needs.
 
-**How to install**
+#### How to install
 - Go to **Community Plugins** in your Obsidian Settings and disable Safe Mode
 - Click on **Browse** and search for "Charts"
 - Click install
 - Toggle the Plugin on in the **Community Plugins** Tab
 
-**Graphical Chart Creator**
+#### Graphical Chart Creator**
 - For simple Charts you can use the graphical Chart Creator, you can access it via the Command Palette or you can even set a Hotkey!
 
 <p align="center">
 <img src="https://cdn.buymeacoffee.com/uploads/project_updates/2021/04/b913e0cec14e6bad57ef0757ce29d288.gif"  height="400" /> 
 </p>
 
-**Samples** 
+#### Samples 
 <p align="center">
 <img src="https://github.com/phibr0/obsidian-charts/raw/master/images/barchart.png"  height="200" />   <img src="https://github.com/phibr0/obsidian-charts/raw/master/images/linechart.png"  height="200" /> <br>
 <img src="https://github.com/phibr0/obsidian-charts/raw/master/images/polarareachart.png"  height="300" />   <img src="https://github.com/phibr0/obsidian-charts/raw/master/images/radarchart.png"  height="300" />
 </p>
 
-#### 2. Chartview Plugin
+### 2. Chartview Plugin
 The [Chartview plugin](https://github.com/caronchen/obsidian-chartsview-plugin) offers another data visualization solution in Obsidian. It is based on Ant Design Charts and supports plots and graphs such as word clouds, treemaps, dual axes, mix, organization tree graph, and more. Users can import data from external or internal CSV files or generate data using dataviewjs.
 
-**Chart Wizard**
+#### Chart Wizard
 Use command Charts View: Wizard to insert code block.
 
 <p align="center">
@@ -58,14 +50,13 @@ Use command Charts View: Wizard to insert code block.
 
 </p>
 
-**Samples** 
+#### Samples 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/150803/136478725-be28a56b-0075-4f0a-a719-f61b30e83b6a.png"  height="200" />   <img src="https://user-images.githubusercontent.com/150803/119069882-87c95700-ba19-11eb-8cef-02d1e021d1a2.png"  height="300" /> <br>
 <img src="https://user-images.githubusercontent.com/150803/119069991-bba47c80-ba19-11eb-873f-847563daea39.png"  height="200" />   <img src="https://user-images.githubusercontent.com/150803/119070047-decf2c00-ba19-11eb-9d59-21c051da593c.png"  height="200" />
 </p>
 
-#### 3. Pandoc Plugin
-
+### 3. Pandoc Plugin
 
 The [Pandoc Plugin](https://github.com/OliverBalfour/obsidian-pandoc) allows users to export their notes to a variety of formats using Pandoc, a command-line tool for document conversion. Supported export formats include Word, PDF, ePub, HTML, PowerPoint, LaTeX, and more. Users can also use Pandoc templates and citations to customize the output according to their preferences.
 
@@ -76,14 +67,14 @@ This lets you **write presentations, draft books, make webpages**, and **write a
 
 </p>
 
-**Basic usage**
+#### Basic usage
 - Press `Ctrl+P/Cmd+P` to show the command palette
 - Search `Pandoc`
 - Choose your export format
 - If all goes well, it will say it was successful
 - If you exported a file called `Pandoc.md` as a Word Document, in your file explorer there will be a `Pandoc.docx` file in the same folder
 
-**Troubleshooting**
+#### Troubleshooting
 
 A common issue is that the settings page will display the red error message `Pandoc is not installed or accessible on your PATH. This plugin's functionality will be limited.`
 
@@ -95,9 +86,7 @@ If you encounter this issue:
 
 After fixing it, relaunch Obsidian and it should  work!
 
-
-
-#### 4. Pandoc Reference List Plugin
+### 4. Pandoc Reference List Plugin
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/mgmeyers/obsidian-pandoc-reference-list/main/Screen%20Shot.png"  height="300" /> <br>
@@ -105,17 +94,15 @@ After fixing it, relaunch Obsidian and it should  work!
 
 The [Pandoc Reference List plugin](https://github.com/mgmeyers/obsidian-pandoc-reference-list) provides a formatted reference in the sidebar for each Pandoc citekey present in the current document. It utilizes Pandoc to generate the reference style, and users can choose from thousands of CSL styles. To use this plugin, users need to supply a compatible bibliography file, such as a .bib or .json file, which contains the references.
 
-**Set up instructions**
+#### Set up instructions
 
 - Ensure [Pandoc](https://pandoc.org/) is installed. **This plugin requires at least version 2.11**.
 - Supply a path to a compatible bibliography file
 - (Optional) Supply a path or URL to a compatible [CSL style](https://citationstyles.org/)
 
-
-
-
 These plugins can help you make your notes more organized, informative, and creative. You can install them from the Obsidian community plugins page or from their GitHub repositories.
 
+### Updates for your plugins
 To check for updates for your plugins, please follow these steps:
 1. Go to **Settings → Community plugins → Current plugins**.
 2. Click on the **Check for updates** button. You will update all plugins.
@@ -124,7 +111,7 @@ To check for updates for your plugins, please follow these steps:
 <img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/plugin%20update.png" height="300" />
 </p>
 
-### 2. Install GitHub Desktop
+## B. Install GitHub Desktop
 GitHub Desktop is a free and open source application that lets you interact with GitHub repositories using a graphical user interface. You can use it to clone, create, commit, push, pull, and merge your code, as well as manage branches, issues, pull requests, and more.
 
 <p align="center">
