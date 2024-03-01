@@ -78,6 +78,14 @@ The Pandoc Plugin, available at [https://github.com/OliverBalfour/obsidian-pando
 
 The Pandoc Reference List plugin, located at [https://github.com/mgmeyers/obsidian-pandoc-reference-list](https://github.com/mgmeyers/obsidian-pandoc-reference-list), provides a formatted reference in the sidebar for each Pandoc citekey present in the current document. It utilizes Pandoc to generate the reference style, and users can choose from thousands of CSL styles. To use this plugin, users need to supply a compatible bibliography file, such as a .bib or .json file, which contains the references.
 
+** Set up instructions:**
+
+- Ensure [Pandoc](https://pandoc.org/) is installed. **This plugin requires at least version 2.11**.
+- Supply a path to a compatible bibliography file
+- (Optional) Supply a path or URL to a compatible [CSL style](https://citationstyles.org/)
+
+
+
 
 These plugins can help you make your notes more organized, informative, and creative. You can install them from the Obsidian community plugins page or from their GitHub repositories.
 
