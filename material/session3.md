@@ -40,7 +40,7 @@ This plugin, available at [https://github.com/phibr0/obsidian-charts](https://gi
 <img src="https://cdn.buymeacoffee.com/uploads/project_updates/2021/04/b913e0cec14e6bad57ef0757ce29d288.gif"  height="400" /> 
 </p>
 
-**Sample** 
+**Samples** 
 <p align="center">
 <img src="https://github.com/phibr0/obsidian-charts/raw/master/images/barchart.png"  height="200" />   <img src="https://github.com/phibr0/obsidian-charts/raw/master/images/linechart.png"  height="200" /> <br>
 <img src="https://github.com/phibr0/obsidian-charts/raw/master/images/polarareachart.png"  height="300" />   <img src="https://github.com/phibr0/obsidian-charts/raw/master/images/radarchart.png"  height="300" />
@@ -58,16 +58,21 @@ Use command Charts View: Wizard to insert code block.
 
 </p>
 
-**Sample** 
+**Samples** 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/150803/136478725-be28a56b-0075-4f0a-a719-f61b30e83b6a.png"  height="200" />   <img src="https://user-images.githubusercontent.com/150803/119069882-87c95700-ba19-11eb-8cef-02d1e021d1a2.png"  height="300" /> <br>
 <img src="https://user-images.githubusercontent.com/150803/119069991-bba47c80-ba19-11eb-873f-847563daea39.png"  height="200" />   <img src="https://user-images.githubusercontent.com/150803/119070047-decf2c00-ba19-11eb-9d59-21c051da593c.png"  height="200" />
 </p>
 
 #### 3. Pandoc Plugin
+<p align="center">
+<img src="https://raw.githubusercontent.com/mgmeyers/obsidian-pandoc-reference-list/main/Screen%20Shot.png"  height="300" /> <br>
+
+</p>
+
 The Pandoc Plugin, available at [https://github.com/OliverBalfour/obsidian-pandoc](https://github.com/OliverBalfour/obsidian-pandoc), allows users to export their notes to a variety of formats using Pandoc, a command-line tool for document conversion. Supported export formats include Word, PDF, ePub, HTML, PowerPoint, LaTeX, and more. Users can also use Pandoc templates and citations to customize the output according to their preferences.
 
-#### 4. Pandoc Reference List Plugin**
+#### 4. Pandoc Reference List Plugin
 The Pandoc Reference List plugin, located at [https://github.com/mgmeyers/obsidian-pandoc-reference-list](https://github.com/mgmeyers/obsidian-pandoc-reference-list), provides a formatted reference in the sidebar for each Pandoc citekey present in the current document. It utilizes Pandoc to generate the reference style, and users can choose from thousands of CSL styles. To use this plugin, users need to supply a compatible bibliography file, such as a .bib or .json file, which contains the references.
 
 
