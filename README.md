@@ -5,10 +5,10 @@
 <a href="https://github.com/drshahizan/obsidian-slr/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/obsidian-slr?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2obsidian-slr&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+
 <p align="center">
-<p align="center">
-<img src="https://github.com/drshahizan/SLR-FC/blob/main/images/slr_stage2a.jpeg"  height="400" />  <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/slr_stage2b.jpeg"  height="400" />
-</p></p>
+<img src="./images/obsidian_book.jpeg"  height="400" />  
+</p>
 
 # Obsidian Vault for Systematic Literature Reviews in Computer Science
 
