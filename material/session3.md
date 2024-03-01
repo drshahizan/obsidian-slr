@@ -34,10 +34,23 @@ This plugin, available at [https://github.com/phibr0/obsidian-charts](https://gi
 - Toggle the Plugin on in the **Community Plugins** Tab
 
 **Graphical Chart Creator**
-For simple Charts you can use the graphical Chart Creator, you can access it via the Command Palette or you can even set a Hotkey!
+- For simple Charts you can use the graphical Chart Creator, you can access it via the Command Palette or you can even set a Hotkey!
+
 <p align="center">
 <img src="https://cdn.buymeacoffee.com/uploads/project_updates/2021/04/b913e0cec14e6bad57ef0757ce29d288.gif"  height="400" /> 
 </p>
+
+**Sample** 
+<p align="center">
+<img src="https://github.com/phibr0/obsidian-charts/raw/master/images/barchart.png"  height="200" />   <img src="https://github.com/phibr0/obsidian-charts/raw/master/images/linechart.png"  height="200" /> <br>
+<img src="https://github.com/phibr0/obsidian-charts/raw/master/images/polarareachart.png"  height="300" />   <img src="https://github.com/phibr0/obsidian-charts/raw/master/images/radarchart.png"  height="300" />
+</p>
+
+
+https://github.com/phibr0/obsidian-charts/raw/master/images/barchart.png
+https://github.com/phibr0/obsidian-charts/raw/master/images/linechart.png
+https://github.com/phibr0/obsidian-charts/raw/master/images/polarareachart.png
+https://github.com/phibr0/obsidian-charts/raw/master/images/radarchart.png
 
 #### 2. Chartview Plugin
 The Chartview plugin, found at [https://github.com/caronchen/obsidian-chartsview-plugin](https://github.com/caronchen/obsidian-chartsview-plugin), offers another data visualization solution in Obsidian. It is based on Ant Design Charts and supports plots and graphs such as word clouds, treemaps, dual axes, mix, organization tree graph, and more. Users can import data from external or internal CSV files or generate data using dataviewjs.
