@@ -46,12 +46,6 @@ This plugin, available at [https://github.com/phibr0/obsidian-charts](https://gi
 <img src="https://github.com/phibr0/obsidian-charts/raw/master/images/polarareachart.png"  height="300" />   <img src="https://github.com/phibr0/obsidian-charts/raw/master/images/radarchart.png"  height="300" />
 </p>
 
-
-https://github.com/phibr0/obsidian-charts/raw/master/images/barchart.png
-https://github.com/phibr0/obsidian-charts/raw/master/images/linechart.png
-https://github.com/phibr0/obsidian-charts/raw/master/images/polarareachart.png
-https://github.com/phibr0/obsidian-charts/raw/master/images/radarchart.png
-
 #### 2. Chartview Plugin
 The Chartview plugin, found at [https://github.com/caronchen/obsidian-chartsview-plugin](https://github.com/caronchen/obsidian-chartsview-plugin), offers another data visualization solution in Obsidian. It is based on Ant Design Charts and supports plots and graphs such as word clouds, treemaps, dual axes, mix, organization tree graph, and more. Users can import data from external or internal CSV files or generate data using dataviewjs.
 
