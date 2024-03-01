@@ -69,6 +69,20 @@ Use command Charts View: Wizard to insert code block.
 
 The Pandoc Plugin, available at [https://github.com/OliverBalfour/obsidian-pandoc](https://github.com/OliverBalfour/obsidian-pandoc), allows users to export their notes to a variety of formats using Pandoc, a command-line tool for document conversion. Supported export formats include Word, PDF, ePub, HTML, PowerPoint, LaTeX, and more. Users can also use Pandoc templates and citations to customize the output according to their preferences.
 
+This lets you **write presentations, draft books, make webpages**, and **write assignments** all in Markdown, and export to whichever format you fancy, all without leaving Obsidian.
+
+<p align="center">
+<img src="https://github.com/OliverBalfour/obsidian-pandoc/raw/master/command-palette.png"  height="300" /> <br>
+
+</p>
+
+**Basic usage**
+- Press Ctrl+P/Cmd+P to show the command palette
+- Search "Pandoc"
+- Choose your export format
+- If all goes well, it will say it was successful
+- If you exported a file called Pandoc.md as a Word Document, in your file explorer there will be a Pandoc.docx file in the same folder
+
 #### 4. Pandoc Reference List Plugin
 
 <p align="center">
@@ -78,7 +92,7 @@ The Pandoc Plugin, available at [https://github.com/OliverBalfour/obsidian-pando
 
 The Pandoc Reference List plugin, located at [https://github.com/mgmeyers/obsidian-pandoc-reference-list](https://github.com/mgmeyers/obsidian-pandoc-reference-list), provides a formatted reference in the sidebar for each Pandoc citekey present in the current document. It utilizes Pandoc to generate the reference style, and users can choose from thousands of CSL styles. To use this plugin, users need to supply a compatible bibliography file, such as a .bib or .json file, which contains the references.
 
-** Set up instructions:**
+**Set up instructions**
 
 - Ensure [Pandoc](https://pandoc.org/) is installed. **This plugin requires at least version 2.11**.
 - Supply a path to a compatible bibliography file
