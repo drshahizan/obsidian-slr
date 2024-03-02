@@ -36,7 +36,7 @@ Obsidian is a powerful note-taking app that allows you to create and link your n
 - Click install
 - Toggle the Plugin on in the **Community Plugins** Tab
 
-#### Graphical Chart Creator**
+#### Graphical Chart Creator
 - For simple Charts you can use the graphical Chart Creator, you can access it via the Command Palette or you can even set a Hotkey!
 
 <p align="center">
