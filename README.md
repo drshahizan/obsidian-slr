@@ -20,11 +20,11 @@ This repository hosts an Obsidian vault tailored for conducting a Systematic Lit
 | 3       | [Mastering the Art of Crafting a SLR](./material/session3.md)    | 5 Mac 2024 | 
 
 ## References
-<img src="https://github.com/drshahizan/SLR-FC/blob/main/images/SLR.png" style="width:185px;"  align="left">
+<img src="https://github.com/drshahizan/SLR-FC/blob/main/images/SLR.png" style="width:215px;"  align="left">
 
 [**Gitbook: Systematic Literature Review**](https://drshahizan.gitbook.io/slr/)
 
-Computer science is a dynamic and rapidly evolving field at the forefront of technological advancement. This systematic literature review (SLR) offers a comprehensive analysis of recent research in computer science, providing insights into the state of the field as of 2024.
+Computer science is a dynamic and rapidly evolving field at the forefront of technological advancement. This systematic literature review (SLR) offers a comprehensive analysis of recent research in computer science, providing insights into the state of the field as of 2024. This SLR serves as a valuable resource for researchers, educators, and practitioners seeking a comprehensive understanding of the current landscape of computer science research. It not only summarizes recent developments but also offers guidance for future research directions, encouraging collaboration and innovation in this ever-evolving field.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian-slr/issues) for any improvements, suggestions or errors in the content.
