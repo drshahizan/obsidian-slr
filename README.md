@@ -19,6 +19,7 @@ This repository hosts an Obsidian vault tailored for conducting a Systematic Lit
 | 2       | [SLR Mastery: From Theory to Practice](./material/session2.md)| 18 Feb 2024 & 3 Mac 2024 | 
 | 3       | [Mastering the Art of Crafting a SLR](./material/session3.md)    | 5 Mac 2024 | 
 
+## References
 <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/SLR.png" style="width:185px;"  align="left">
 
 [**Gitbook: Systematic Literature Review**](https://drshahizan.gitbook.io/slr/)
