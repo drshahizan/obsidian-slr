@@ -19,6 +19,7 @@ This repository hosts an Obsidian vault tailored for conducting a Systematic Lit
 | 2       | [SLR Mastery: From Theory to Practice](./material/session2.md)| 18 Feb 2024 & 3 Mac 2024 | 
 | 3       | [Mastering the Art of Crafting a SLR](./material/session3.md)    | 5 Mac 2024 | 
 
+<img src="./images/obsidian_book.jpeg" style="width:185px;"  align="left">
 
 
 ## Contribution 🛠️
