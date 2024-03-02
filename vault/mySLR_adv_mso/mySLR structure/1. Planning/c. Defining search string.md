@@ -1,0 +1,3 @@
+Defining search string The basic rule is to separate the keywords. For each separated word, find its synonyms and concatenate them with the OR connector. After the definition of the groups of words with their synonyms, concatenate them with AND to end the string. See below an example of a search string: 
+
+*(pragmatic OR pragmatics OR pragmatism) AND (interoperability OR interoperate OR interoperable OR interoperation OR similarity OR integrate OR integration) AND (solution OR method OR technique OR model OR tool OR framework OR architecture OR infrastructure OR approach) AND (computational OR system OR application OR software)*

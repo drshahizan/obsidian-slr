@@ -1,0 +1,20 @@
+{
+  "obsidian-zotero-desktop-connector:zdc-Format #1": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-exp-import annotations": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ]
+}

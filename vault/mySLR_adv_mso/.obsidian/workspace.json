@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "390d882a339d9336",
+    "type": "split",
+    "children": [
+      {
+        "id": "8992da068bd41d1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd9494fcc2bb66e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drawing/Chart/Bar.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e98d76f87fb20f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "440f380322d177a2",
+        "type": "tabs",
+        "dimension": 75.22222222222223,
+        "children": [
+          {
+            "id": "4011301bc14b4afa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb8ecc78326293b1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8796cd6ee74cf934",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bdf6323dee8835fe",
+        "type": "tabs",
+        "dimension": 24.77777777777778,
+        "children": [
+          {
+            "id": "c7a084cf6dae830f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a08ba080949b355b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d16a1d273eefe79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#paper_review",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.50390243530273
+  },
+  "right": {
+    "id": "b2b797a78cbab6e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc3ac43caaebec9",
+        "type": "tabs",
+        "dimension": 54.85714285714286,
+        "children": [
+          {
+            "id": "2a7a3abe15749c95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Drawing/Chart/Bar.md"
+              }
+            }
+          },
+          {
+            "id": "c0b87ad8480d5de5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c743bf0d3c47d115",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "faf2a47e12542ca8",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "3ef71bdef75fb4cb",
+        "type": "tabs",
+        "dimension": 45.14285714285714,
+        "children": [
+          {
+            "id": "b27dc0f936788285",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Drawing/Chart/Bar.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40186dd7169d3e37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Drawing/Chart/Bar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "cd9494fcc2bb66e6",
+  "lastOpenFiles": [
+    "Database.md",
+    "Literature table/All paper.md",
+    "Literature table/IoT.md",
+    "Literature table/No tagging.md",
+    "Paper/How to conduct SLR.pdf",
+    "Paper/References.md",
+    "Literature_collection/abualigah_2021.md",
+    "README.md",
+    "Literature_collection/abdulkareem_2022.md",
+    "Literature_collection/abbas_2021.md",
+    "Literature_collection/abual-haija_2023.md",
+    "Tools/SR Accelerator.md",
+    "PRISMA/PRISMA Flow Diagram.md",
+    "PRISMA/~$ISMA Flow Diagram.docx",
+    "PRISMA/PRISMA Flow Diagram.docx",
+    "Drawing/Chartsview/Word Count.md",
+    "Drawing/PRISMA.md",
+    "Drawing/Chartsview/Rose.md",
+    "Drawing/Chartsview/Sample.md",
+    "Drawing/Chartsview/dataview.md",
+    "Drawing/Chartsview/Area.md",
+    "Drawing/Chart/Data from table.md",
+    "Drawing/Chart/Sample 1.md",
+    "Drawing/Chart/Jadual.md",
+    "Drawing/Chart/File Table.md",
+    "Drawing/Chart/Bar.md",
+    "Drawing/Chart/Line.md",
+    "Drawing/Chart/Pie.md",
+    "Drawing/Chartsview",
+    "Drawing/SLR Framework.excalidraw.md",
+    "Drawing/Chart",
+    "Literature_collection/al-garadi_2020/image-4-x65-y194.png",
+    "Paper/benefit SLR.pdf",
+    "Timestamps/Meetings",
+    "Timestamps",
+    "Notes",
+    "Research diary/Weekly",
+    "Images/github.png"
+  ]
+}

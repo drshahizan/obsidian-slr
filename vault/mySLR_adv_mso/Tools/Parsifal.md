@@ -1,0 +1,7 @@
+**[Parsifal](https://parsif.al/)** is an online tool designed to support researchers to perform systematic literature reviews within the context of **Software Engineering**. Geographically distributed researchers can work together within a shared workspace, designing the protocol and conducting the research.
+
+As well as providing a way to document the whole process, the tool will help you remind what is important during a systematic literature review. During the planning phase, **Parsifal** will help you with the objectives, PICOC, research questions, search string, keywords and synonyms, selecting the sources, the inclusion and exclusion criterias. Will also provide mechanisms to build a quality assessment checklist and data extraction forms.
+
+During the conducting phase, you will be able to import _bibtex_ files and select the studies, find duplicates among all the different sources, execute the quality assessment and extract data from the papers.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BLj3UBaNr7M?si=L7S-yZOZ6-mPWwNh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

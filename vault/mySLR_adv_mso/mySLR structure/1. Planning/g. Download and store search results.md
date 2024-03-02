@@ -1,0 +1,3 @@
+All major search engines allow you to explore the set of selected results in various formats. The main formats are BIB (preferably) and CSV. These formats will be used as input for reference management tools. When choosing the option to download, it is important to select citation and abstract information.
+
+For a systematic review, we use these tools primarily to manage downloaded references and remove duplicate papers returned from different search engines.

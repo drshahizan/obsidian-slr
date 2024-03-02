@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiChartHistogram",
+      "TiChartBar",
+      "SiHomeassistant",
+      "TiHomeHeart",
+      "SiMicrosoftonenote"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "emojiStyle": "none",
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "PhD_projects": "SiAcademia",
+  "Embryonic_learning_references": "SiAiohttp",
+  "Templates": "SiAdafruit",
+  "Literature table": "TiTableRow",
+  "mySLR structure": "TiHierarchy3",
+  "Drawing": {
+    "iconName": "SiAdafruit",
+    "iconColor": "#e90707"
+  },
+  "mySLR article": "TiArticle",
+  "Material SLR": "SiMaterialdesignicons",
+  "PRISMA": "SiPrisma",
+  "Images": "TiPhotoCircle",
+  "Paper": "TiFileTypePdf",
+  "Tools": "TiTools",
+  "Research diary": "TiNotebook",
+  "Research diary/Kanban SLR.md": "SiAbbrobotstudio",
+  "Literature_collection": "TiDatabaseStar",
+  "Template": "TiTemplate",
+  "README.md": "SiReadthedocs",
+  "Notes": "SiMicrosoftonenote",
+  "Research diary/Meeting/Research Meetings.md": "TiHomeHeart",
+  "Research diary/Daily Notes/Summary Daily Notes.md": "SiHomeassistant",
+  "Drawing/Chart": "TiChartBar",
+  "Drawing/Chartsview": "TiChartHistogram"
+}

@@ -1,0 +1,17 @@
+{
+  "pathToPandoc": "/opt/homebrew/bin/pandoc",
+  "tooltipDelay": 800,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library",
+      "lastUpdate": 1709338376105
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "/Users/mso_mac22/Downloads/MySLR/abc.bib",
+  "showCitekeyTooltips": false,
+  "pullFromZotero": true
+}
