@@ -8,7 +8,7 @@
 
 # Obsidian Vault for Systematic Literature Reviews in Computer Science
 
-<img src="./images/obsidian_book.jpeg" style="width:180px;"  align="left">
+<img src="./images/obsidian_book.jpeg" style="width:185px;"  align="left">
 
 This repository hosts an Obsidian vault tailored for conducting a Systematic Literature Review (SLR). An SLR is a meticulous and transparent approach to synthesizing and evaluating existing literature related to a specific research question. Obsidian is a robust note-taking application that offers features such as linking, tagging, and graphing of notes. By utilizing GitHub, the vault can be synchronized, backed up, and shared with other researchers. GitHub is a web-based platform that hosts code repositories and offers version control, collaboration, and documentation capabilities. This vault template is intended for computer science researchers seeking to perform an SLR using Obsidian and GitHub.
 
