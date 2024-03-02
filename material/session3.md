@@ -13,7 +13,18 @@
 
 **What You Need to Do Before Joining this class** 🚀
 
-## A. Obsidian Plugins
+### A. Download Obsidian Vault for Systematic Literature Reviews
+
+To use the Obsidian Vault for Systematic Literature Reviews, please follow these steps:
+
+1. Click on this link to download the file named **[mySLR_adv_mso.zip]()**.
+2. Extract the file to a folder of your choice.
+3. Install Obsidian software from [this website](https://obsidian.md/download) if you don't have it already.
+4. Open Obsidian and select **Open another vault**.
+5. Choose the folder where you extracted the file in step 2.
+6. You can now access the Obsidian Vault for Systematic Literature Reviews and start your training.
+
+## B. Obsidian Plugins
 Obsidian is a powerful note-taking app that allows you to create and link your notes in various ways. To enhance your note-taking experience, you can use plugins that add extra features and functionalities to Obsidian. The plugins used in this vault are as follows:
 
 ### 1. Charts Plugin
@@ -113,7 +124,7 @@ To check for updates for your plugins, please follow these steps:
 <img src="https://github.com/drshahizan/obsidian-slr/blob/main/images/plugin%20update.png" height="300" />
 </p>
 
-## B. Install GitHub Desktop
+## C. Install GitHub Desktop
 GitHub Desktop is a free and open source application that lets you interact with GitHub repositories using a graphical user interface. You can use it to clone, create, commit, push, pull, and merge your code, as well as manage branches, issues, pull requests, and more.
 
 <p align="center">
