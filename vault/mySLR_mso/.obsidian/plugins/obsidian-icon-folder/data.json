@@ -32,7 +32,10 @@
   "Templates": "SiAdafruit",
   "Literature table": "TiTableRow",
   "mySLR structure": "TiHierarchy3",
-  "Drawing": "SiAdafruit",
+  "Drawing": {
+    "iconName": "TiTools",
+    "iconColor": "#f62804"
+  },
   "mySLR article": "TiArticle",
   "Material SLR": "SiMaterialdesignicons",
   "PRISMA": "SiPrisma",

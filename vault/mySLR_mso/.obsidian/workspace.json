@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c0de6fd285f58a23",
+        "id": "45bb80fece1eac82",
         "type": "tabs",
         "children": [
           {
-            "id": "db63fa6128c4c731",
+            "id": "72622b11bced552c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature table/All paper.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -32,7 +28,7 @@
       {
         "id": "440f380322d177a2",
         "type": "tabs",
-        "dimension": 75.22222222222223,
+        "dimension": 70.22222222222221,
         "children": [
           {
             "id": "4011301bc14b4afa",
@@ -65,7 +61,7 @@
       {
         "id": "bdf6323dee8835fe",
         "type": "tabs",
-        "dimension": 24.77777777777778,
+        "dimension": 29.777777777777775,
         "children": [
           {
             "id": "c7a084cf6dae830f",
@@ -106,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 362.5026054382324
   },
   "right": {
     "id": "b2b797a78cbab6e1",
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Literature table/All paper.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature table/All paper.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature table/All paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,49 +188,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db63fa6128c4c731",
+  "active": "a08ba080949b355b",
   "lastOpenFiles": [
-    "Literature_collection/zuo_2023.md",
-    "Template/zotero_integration.md",
-    "Literature_collection/abualigah_2021.md",
-    "Literature_collection/abual-haija_2023.md",
-    "Literature_collection/al-garadi_2020.md",
-    "Research diary/Meeting/2024-02-17 IIRG Meeting 1.md",
-    "Research diary/Daily Notes/2024-02-17.md",
-    "Research diary/Daily Notes/Summary Daily Notes.md",
-    "Template/Daily.md",
-    "Template/Meeting.md",
-    "Research diary/Meeting/2024-02-17 MSO.md",
+    "Research diary/Kanban SLR.md",
     "Research diary/Meeting/Research Meetings.md",
-    "Research diary/Daily Notes/17-02-2024.md",
-    "2017-02-21-Tuesday.md",
-    "+Home.md",
-    "Template, Meeting.md",
-    "Template/Weekly.md",
+    "Research diary/Meeting/2024-03-03 MSO.md",
+    "Research diary/Example note.md",
+    "Research diary/Meeting/2024-02-17 MSO.md",
+    "Research diary/Meeting/2024-02-17 IIRG Meeting 1.md",
+    "Research diary/Daily Notes/2024-03-03.md",
+    "Research diary/Daily Notes/Summary Daily Notes.md",
+    "PRISMA/Sample PRISMA.md",
+    "PRISMA/PRISMA Flow Diagram.md",
+    "Paper/How to conduct SLR.pdf",
+    "Paper/benefit SLR.pdf",
+    "mySLR structure/1. Planning/c. Defining search string.md",
+    "mySLR structure/1. Planning/b. Defining keyword.md",
+    "mySLR structure/1. Planning/a. Defining main research.md",
+    "Material SLR/Research Question.md",
+    "Material SLR/PICO.md",
+    "Material SLR/Example Define Research.md",
+    "Material SLR/Define research.md",
+    "Literature_collection/al-garadi_2020/image-4-x65-y194.png",
+    "Literature_collection/apruzzese_2023.md",
+    "Literature_collection/abual-haija_2023.md",
+    "Literature_collection/apruzzese_2023/image-9-x163-y134.png",
+    "Literature_collection/apruzzese_2023",
+    "Literature_collection/abdulkareem_2019.md",
+    "Literature table/All paper.md",
+    "Literature_collection/shah_2022.md",
+    "Literature table/Review paper.md",
+    "Literature table/No tagging.md",
+    "Literature table/IoT.md",
+    "Drawing/SLR Repository.md",
     "Timestamps/Meetings",
     "Timestamps",
-    "Example.md",
-    "Research diary/Daily Notes/17 Feb 2024.md",
-    "2024-02-18-Sunday.md",
-    "2024-02-16-Friday.md",
-    "Invalid date.md",
-    "Research diary/Weekly/Untitled.md",
-    "Research diary/Daily Notes/Untitled 1.md",
-    "Template/Calendar Entry.md",
-    "Untitled.md",
     "Notes",
     "Research diary/Weekly",
     "Research diary/Meeting",
     "Research diary/Daily Notes",
     "Images/github.png",
-    "Literature_collection/al-garadi_2020/image-4-x65-y194.png",
-    "Literature_collection/al-garadi_2020",
-    "Paper/benefit SLR.pdf",
-    "zotero_annotations",
-    "Template"
+    "Literature_collection/al-garadi_2020"
   ]
 }
