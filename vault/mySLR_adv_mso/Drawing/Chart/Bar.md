@@ -1,7 +1,7 @@
 
 ```chart
 type: bar
-labels: [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, "Next Week", "Next Month"]
+labels: [IEEE, WOS, Scopus, ACM, TEST, TEST, Sunday, "Next Week", "Next Month"]
 series:
   - title: Articles Read
     data: [12, 4, 7, 5, 8, 10, 9, 15, 20]
