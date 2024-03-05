@@ -14,25 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Drawing/Chart/Bar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ec7904bbcee7377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nur Shahirah Jailani.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nur Shahirah Jailani.md"
+                "file": "Drawing/Chart/Bar.md"
               }
             }
           },
@@ -178,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nur Shahirah Jailani.md",
+                "file": "Drawing/Chart/Bar.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nur Shahirah Jailani.md",
+                "file": "Drawing/Chart/Bar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,11 +207,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ec7904bbcee7377",
+  "active": "cd9494fcc2bb66e6",
   "lastOpenFiles": [
-    "Drawing/Chart/Bar.md",
     "Nur Shahirah Jailani.md",
-    "Drawing/Chart/Data from table.md",
     "Database.md",
     "Literature table/All paper.md",
     "Literature table/IoT.md",
@@ -247,9 +231,11 @@
     "Drawing/Chartsview/Sample.md",
     "Drawing/Chartsview/dataview.md",
     "Drawing/Chartsview/Area.md",
+    "Drawing/Chart/Data from table.md",
     "Drawing/Chart/Sample 1.md",
     "Drawing/Chart/Jadual.md",
     "Drawing/Chart/File Table.md",
+    "Drawing/Chart/Bar.md",
     "Drawing/Chart/Line.md",
     "Drawing/Chart/Pie.md",
     "Drawing/Chartsview",
