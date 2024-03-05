@@ -4,9 +4,13 @@ type: bar
 labels: [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, "Next Week", "Next Month"]
 series:
   - title: Articles Read
+<<<<<<< HEAD
     data: [12, 9, 7, 5, 8, 10, 9, 15, 50]
+=======
+    data: [12, 13, 7, 2, 8, 10, 9, 15, 20]
+>>>>>>> 971969a17703b2ca7e19c1842e892fe74d00ee4c
   - title: Articles Written
-    data: [1, 0, 3, 2, 1, 0, 1, 2, 3]
+    data: [1, 5, 3, 2, 1, 0, 1, 2, 3]
 ```
 
 ## DataviewJS
