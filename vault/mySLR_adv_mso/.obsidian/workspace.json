@@ -14,8 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "Drawing/Chart/Bar.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing/Chart/Bar.md"
+                "file": "Drawing/Chart/Hazwani Haris.md"
               }
             }
           },
@@ -165,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing/Chart/Bar.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing/Chart/Bar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,9 +207,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd9494fcc2bb66e6",
+  "active": "4011301bc14b4afa",
   "lastOpenFiles": [
+    "Zuraifah.md",
     "Nur Shahirah Jailani.md",
+    "Drawing/Chart/Bar.md",
+    "Drawing/Chart/Hazwani Haris.md",
+    "Drawing/Chart/Data from table.md",
     "Database.md",
     "Literature table/All paper.md",
     "Literature table/IoT.md",
@@ -231,13 +235,9 @@
     "Drawing/Chartsview/Sample.md",
     "Drawing/Chartsview/dataview.md",
     "Drawing/Chartsview/Area.md",
-    "Drawing/Chart/Data from table.md",
     "Drawing/Chart/Sample 1.md",
     "Drawing/Chart/Jadual.md",
     "Drawing/Chart/File Table.md",
-    "Drawing/Chart/Bar.md",
-    "Drawing/Chart/Line.md",
-    "Drawing/Chart/Pie.md",
     "Drawing/Chartsview",
     "Drawing/Chart",
     "Literature_collection/al-garadi_2020/image-4-x65-y194.png",
