@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yingying.md",
+                "file": "Drawing/Chart/Yingying.md",
                 "mode": "preview",
                 "source": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yingying.md"
+                "file": "Drawing/Chart/Yingying.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yingying.md",
+                "file": "Drawing/Chart/Yingying.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yingying.md",
+                "file": "Drawing/Chart/Yingying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,10 +207,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1224f94b9236d376",
+  "active": "4011301bc14b4afa",
   "lastOpenFiles": [
     "Drawing/Chart/Bar.md",
-    "Yingying.md",
+    "Drawing/Chart/Yingying.md",
     "Nur Shahirah Jailani.md",
     "Drawing/Chart/Data from table.md",
     "Database.md",
