@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adila Firdaus.md",
+                "file": "Nur Shahirah Jailani.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adila Firdaus.md"
+                "file": "Nur Shahirah Jailani.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adila Firdaus.md",
+                "file": "Nur Shahirah Jailani.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adila Firdaus.md",
+                "file": "Nur Shahirah Jailani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,8 +222,9 @@
   },
   "active": "e79dbf9a90ef2342",
   "lastOpenFiles": [
-    "Drawing/Chart/Bar.md",
     "Adila Firdaus.md",
+    "Nur Shahirah Jailani.md",
+    "Drawing/Chart/Bar.md",
     "Untitled.canvas",
     "Drawing/Chart/Data from table.md",
     "Database.md",
@@ -251,7 +252,6 @@
     "Drawing/Chart/Jadual.md",
     "Drawing/Chart/File Table.md",
     "Drawing/Chart/Line.md",
-    "Drawing/Chart/Pie.md",
     "Drawing/Chartsview",
     "Drawing/Chart",
     "Literature_collection/al-garadi_2020/image-4-x65-y194.png",
