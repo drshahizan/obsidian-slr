@@ -1,36 +1,22 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "56b0e2249f99c0e9",
+    "id": "9cb4d86335ece0e5",
     "type": "split",
     "children": [
       {
-        "id": "5712ab15f4ebf724",
+        "id": "35cb4388c02acc4c",
         "type": "tabs",
         "children": [
           {
-            "id": "3afd1c0a286720ba",
+            "id": "ee3d1c578d6c8351",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/rfp.png"
+                "file": "Pang Yee Yong.md",
+                "mode": "source",
+                "source": false
               }
-=======
-    "id": "a0c324f3502c2cc2",
-    "type": "split",
-    "children": [
-      {
-        "id": "1898b6bf1dafbb35",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "01c083f33a211cf7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
->>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
             }
           }
         ]
@@ -39,27 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "0dccd8407802cfda",
+    "id": "862f62d745b5f10c",
     "type": "split",
     "children": [
       {
-        "id": "cb1d6c084b4b054f",
+        "id": "ce9d84e5afac37b8",
         "type": "tabs",
         "children": [
           {
-            "id": "1e65344d27d09d1a",
-=======
-    "id": "a575952b1b62eecd",
-    "type": "split",
-    "children": [
-      {
-        "id": "c769dac3ca759ef5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e587ba13fa5b674f",
->>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+            "id": "04f304a22867feb7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,11 +43,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "a947149526c9cb69",
-=======
-            "id": "23524e0fc161103d",
->>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+            "id": "7d0364782f50c4a8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -88,11 +58,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "7f562cc104f726a2",
-=======
-            "id": "50002452c06890a1",
->>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+            "id": "c9ce7ad17adeb750",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,35 +72,20 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "6dac7357f2097074",
+    "id": "a8fd6f74affd028b",
     "type": "split",
     "children": [
       {
-        "id": "f8e00a75a9ee9f8f",
+        "id": "89d0ba6d8b07ead1",
         "type": "tabs",
         "children": [
           {
-            "id": "759fff147f5856a0",
-=======
-    "id": "6e69b049069df1a1",
-    "type": "split",
-    "children": [
-      {
-        "id": "7c3c30feb584082f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "98a3c1d74c2bfb97",
->>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+            "id": "92da03a1136fe67f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "images/rfp.png",
-=======
->>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+                "file": "Pang Yee Yong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,30 +97,19 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "5c3b737ad6dfb0b5",
-=======
-            "id": "45207aac99f5526c",
->>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+            "id": "a3b8547ca8175152",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "images/rfp.png",
-=======
->>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+                "file": "Pang Yee Yong.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "97420b642a855959",
-=======
-            "id": "3c2e8124c008d86e",
->>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+            "id": "9480cafe1ec84f18",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,21 +120,13 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "4f8da31838adbe5c",
+            "id": "d8fe8dcc2d5a96ea",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/rfp.png"
+                "file": "Pang Yee Yong.md"
               }
-=======
-            "id": "c440bda0c9fa11fc",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
->>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
             }
           }
         ]
@@ -214,18 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "3afd1c0a286720ba",
+  "active": "ee3d1c578d6c8351",
   "lastOpenFiles": [
-    "images/readme.md",
-    "images/plugin update.png",
-    "images/obsidian_book.jpeg",
-    "images/install zotero plugin.png",
-    "images/bibtex download.png",
-    "images/better bibtex.png"
+    "Welcome.md",
+    "Pang Yee Yong.md",
+    "Untitled.md",
+    "Untitled 1",
+    "Untitled"
   ]
-=======
-  "active": "01c083f33a211cf7",
-  "lastOpenFiles": []
->>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
 }
