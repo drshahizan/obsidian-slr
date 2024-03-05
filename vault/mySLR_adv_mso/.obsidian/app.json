@@ -1,8 +1,6 @@
 {
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "promptDelete": false,
   "alwaysUpdateLinks": true
 }

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drawing/Chart/Bar.md",
-                "mode": "preview",
+                "file": "Drawing/Chart/Anwar.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#paper_review",
+                "query": "path:\"mySLR structure/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing/Chart/Bar.md"
+                "file": "Drawing/Chart/Anwar.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing/Chart/Bar.md",
+                "file": "Drawing/Chart/Anwar.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing/Chart/Bar.md",
+                "file": "Drawing/Chart/Anwar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,12 +203,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "cd9494fcc2bb66e6",
   "lastOpenFiles": [
+    "Drawing/Chart/Bar.md",
+    "Drawing/Chart/Anwar.md",
     "Database.md",
     "Literature table/All paper.md",
     "Literature table/IoT.md",
@@ -234,11 +236,9 @@
     "Drawing/Chart/Sample 1.md",
     "Drawing/Chart/Jadual.md",
     "Drawing/Chart/File Table.md",
-    "Drawing/Chart/Bar.md",
     "Drawing/Chart/Line.md",
     "Drawing/Chart/Pie.md",
     "Drawing/Chartsview",
-    "Drawing/SLR Framework.excalidraw.md",
     "Drawing/Chart",
     "Literature_collection/al-garadi_2020/image-4-x65-y194.png",
     "Paper/benefit SLR.pdf",
