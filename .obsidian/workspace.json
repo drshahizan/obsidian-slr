@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "63b772ea94ce1c11",
     "type": "split",
     "children": [
@@ -9,10 +10,42 @@
         "children": [
           {
             "id": "f555de79afff2f12",
+=======
+<<<<<<< HEAD
+    "id": "56b0e2249f99c0e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5712ab15f4ebf724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3afd1c0a286720ba",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/rfp.png"
+              }
+=======
+    "id": "a0c324f3502c2cc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1898b6bf1dafbb35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01c083f33a211cf7",
+>>>>>>> 55a00d7acd471a93ec350e6003d7db932a274e40
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
+<<<<<<< HEAD
+=======
+>>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+>>>>>>> 55a00d7acd471a93ec350e6003d7db932a274e40
             }
           }
         ]
@@ -21,6 +54,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "3dd14a450ad5a847",
     "type": "split",
     "children": [
@@ -30,6 +64,29 @@
         "children": [
           {
             "id": "6bc72fc0e406c33d",
+=======
+<<<<<<< HEAD
+    "id": "0dccd8407802cfda",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb1d6c084b4b054f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e65344d27d09d1a",
+=======
+    "id": "a575952b1b62eecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c769dac3ca759ef5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e587ba13fa5b674f",
+>>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+>>>>>>> 55a00d7acd471a93ec350e6003d7db932a274e40
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +96,15 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "5f3ac6c684f9ae41",
+=======
+<<<<<<< HEAD
+            "id": "a947149526c9cb69",
+=======
+            "id": "23524e0fc161103d",
+>>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+>>>>>>> 55a00d7acd471a93ec350e6003d7db932a274e40
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +119,15 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "3fac3422b025b30f",
+=======
+<<<<<<< HEAD
+            "id": "7f562cc104f726a2",
+=======
+            "id": "50002452c06890a1",
+>>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+>>>>>>> 55a00d7acd471a93ec350e6003d7db932a274e40
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,6 +141,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "7dc0e28d18c2af99",
     "type": "split",
     "children": [
@@ -77,10 +151,40 @@
         "children": [
           {
             "id": "23d954114d4ed1d8",
+=======
+<<<<<<< HEAD
+    "id": "6dac7357f2097074",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8e00a75a9ee9f8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "759fff147f5856a0",
+=======
+    "id": "6e69b049069df1a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c3c30feb584082f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98a3c1d74c2bfb97",
+>>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+>>>>>>> 55a00d7acd471a93ec350e6003d7db932a274e40
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+                "file": "images/rfp.png",
+=======
+>>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+>>>>>>> 55a00d7acd471a93ec350e6003d7db932a274e40
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +196,41 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "56423aaebb5e0181",
+=======
+<<<<<<< HEAD
+            "id": "5c3b737ad6dfb0b5",
+=======
+            "id": "45207aac99f5526c",
+>>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+>>>>>>> 55a00d7acd471a93ec350e6003d7db932a274e40
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+                "file": "images/rfp.png",
+=======
+>>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+>>>>>>> 55a00d7acd471a93ec350e6003d7db932a274e40
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "c744f89497d207a0",
+=======
+<<<<<<< HEAD
+            "id": "97420b642a855959",
+=======
+            "id": "3c2e8124c008d86e",
+>>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+>>>>>>> 55a00d7acd471a93ec350e6003d7db932a274e40
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +241,28 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "43bef187ced5282a",
+=======
+<<<<<<< HEAD
+            "id": "4f8da31838adbe5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "images/rfp.png"
+              }
+=======
+            "id": "c440bda0c9fa11fc",
+>>>>>>> 55a00d7acd471a93ec350e6003d7db932a274e40
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
+<<<<<<< HEAD
+=======
+>>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+>>>>>>> 55a00d7acd471a93ec350e6003d7db932a274e40
             }
           }
         ]
@@ -138,6 +282,23 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "f555de79afff2f12",
   "lastOpenFiles": []
+=======
+<<<<<<< HEAD
+  "active": "3afd1c0a286720ba",
+  "lastOpenFiles": [
+    "images/readme.md",
+    "images/plugin update.png",
+    "images/obsidian_book.jpeg",
+    "images/install zotero plugin.png",
+    "images/bibtex download.png",
+    "images/better bibtex.png"
+  ]
+=======
+  "active": "01c083f33a211cf7",
+  "lastOpenFiles": []
+>>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
+>>>>>>> 55a00d7acd471a93ec350e6003d7db932a274e40
 }
