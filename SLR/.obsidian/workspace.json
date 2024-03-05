@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "9cb4d86335ece0e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "35cb4388c02acc4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee3d1c578d6c8351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pang Yee Yong.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "862f62d745b5f10c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce9d84e5afac37b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04f304a22867feb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d0364782f50c4a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9ce7ad17adeb750",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8fd6f74affd028b",
+    "type": "split",
+    "children": [
+      {
+        "id": "89d0ba6d8b07ead1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92da03a1136fe67f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pang Yee Yong.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3b8547ca8175152",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pang Yee Yong.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9480cafe1ec84f18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8fe8dcc2d5a96ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pang Yee Yong.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ee3d1c578d6c8351",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Pang Yee Yong.md",
+    "Untitled.md",
+    "Untitled 1",
+    "Untitled"
+  ]
+}
