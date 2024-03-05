@@ -4,19 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8992da068bd41d1f",
+        "id": "acdd545545807150",
         "type": "tabs",
         "children": [
           {
-            "id": "cd9494fcc2bb66e6",
+            "id": "7a94dc0b1273fac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drawing/Chart/Bar.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "Alif.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing/Chart/Hazwani Haris.md"
+                "file": "Alif.md"
               }
             }
           },
@@ -166,6 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Alif.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -177,6 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Alif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,25 +203,34 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4011301bc14b4afa",
+  "active": "7a94dc0b1273fac7",
   "lastOpenFiles": [
     "Zuraifah.md",
-    "Nur Shahirah Jailani.md",
-    "Drawing/Chart/Bar.md",
-    "Drawing/Chart/Hazwani Haris.md",
-    "Drawing/Chart/Data from table.md",
+    "Alif.md",
+    "Liza.md",
+    "Abraham.md",
+    "README.md",
+    "Untitled.canvas",
     "Database.md",
+    "Adila Firdaus.md",
+    "Alif",
+    "Drawing/Chart/Data from table.md",
+    "Drawing/Chart/File Table.md",
+    "Drawing/Chart/Bar.md",
+    "Drawing/Chart/Anwar.md",
+    "Drawing/Chart/Yingying.md",
+    "Drawing/Chart/Hazwani Haris.md",
+    "Nur Shahirah Jailani.md",
     "Literature table/All paper.md",
     "Literature table/IoT.md",
     "Literature table/No tagging.md",
     "Paper/How to conduct SLR.pdf",
     "Paper/References.md",
     "Literature_collection/abualigah_2021.md",
-    "README.md",
     "Literature_collection/abdulkareem_2022.md",
     "Literature_collection/abbas_2021.md",
     "Literature_collection/abual-haija_2023.md",
@@ -231,13 +240,6 @@
     "PRISMA/PRISMA Flow Diagram.docx",
     "Drawing/Chartsview/Word Count.md",
     "Drawing/PRISMA.md",
-    "Drawing/Chartsview/Rose.md",
-    "Drawing/Chartsview/Sample.md",
-    "Drawing/Chartsview/dataview.md",
-    "Drawing/Chartsview/Area.md",
-    "Drawing/Chart/Sample 1.md",
-    "Drawing/Chart/Jadual.md",
-    "Drawing/Chart/File Table.md",
     "Drawing/Chartsview",
     "Drawing/Chart",
     "Literature_collection/al-garadi_2020/image-4-x65-y194.png",
@@ -245,7 +247,6 @@
     "Timestamps/Meetings",
     "Timestamps",
     "Notes",
-    "Research diary/Weekly",
     "Images/github.png"
   ]
 }

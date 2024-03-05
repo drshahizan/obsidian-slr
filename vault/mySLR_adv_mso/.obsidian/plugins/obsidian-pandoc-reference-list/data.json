@@ -6,10 +6,14 @@
       "id": 1,
       "name": "My Library",
 <<<<<<< HEAD
-      "lastUpdate": 1709612859313
+<<<<<<< HEAD
+      "lastUpdate": 1709612525312
 =======
       "lastUpdate": 1709612400532
 >>>>>>> 971969a17703b2ca7e19c1842e892fe74d00ee4c
+=======
+      "lastUpdate": 1709612378679
+>>>>>>> 55a00d7acd471a93ec350e6003d7db932a274e40
     }
   ],
   "renderCitations": true,

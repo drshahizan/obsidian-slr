@@ -1,6 +1,12 @@
 
 ```chart
 type: bar
+<<<<<<< HEAD
+labels: [Testing 1, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, "Next Week", "Next Month"]
+series:
+  - title: Articles Read
+    data: [10, 4, 7, 5, 8, 10, 9, 15, 20]
+=======
 labels: [IEEE, WOS, Scopus, ACM, TEST, TEST, Sunday, "Next Week", "Next Month"]
 series:
   - title: Articles Read
@@ -9,6 +15,7 @@ series:
 =======
     data: [12, 13, 7, 2, 8, 10, 9, 15, 20]
 >>>>>>> 971969a17703b2ca7e19c1842e892fe74d00ee4c
+>>>>>>> 30dbbb06b98278d3113ea33ab1c1648c1a93427e
   - title: Articles Written
     data: [1, 5, 3, 2, 1, 0, 1, 2, 3]
 ```
