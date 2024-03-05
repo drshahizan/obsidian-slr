@@ -5,7 +5,11 @@
     {
       "id": 1,
       "name": "My Library",
-      "lastUpdate": 1709338376105
+<<<<<<< HEAD
+      "lastUpdate": 1709612859313
+=======
+      "lastUpdate": 1709612400532
+>>>>>>> 971969a17703b2ca7e19c1842e892fe74d00ee4c
     }
   ],
   "renderCitations": true,

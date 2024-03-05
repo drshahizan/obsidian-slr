@@ -1,4 +1,6 @@
 {
   "accentColor": "#6228b8",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "cssTheme": "Pink Topaz",
+  "theme": "moonstone"
 }
