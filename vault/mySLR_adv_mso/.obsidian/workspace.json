@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Drawing/Chart/Bar.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -203,8 +203,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "cd9494fcc2bb66e6",
