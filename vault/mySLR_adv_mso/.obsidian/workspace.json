@@ -15,17 +15,17 @@
               "state": {
                 "file": "Drawing/Chart/Bar.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "6d011a3f8045484f",
+            "id": "4ec7904bbcee7377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zuraifah.md",
+                "file": "Nur Shahirah Jailani.md",
                 "mode": "preview",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zuraifah.md"
+                "file": "Nur Shahirah Jailani.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zuraifah.md",
+                "file": "Nur Shahirah Jailani.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zuraifah.md",
+                "file": "Nur Shahirah Jailani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,10 +221,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d011a3f8045484f",
+  "active": "4ec7904bbcee7377",
   "lastOpenFiles": [
     "Drawing/Chart/Bar.md",
-    "Zuraifah.md",
+    "Nur Shahirah Jailani.md",
+    "Drawing/Chart/Data from table.md",
     "Database.md",
     "Literature table/All paper.md",
     "Literature table/IoT.md",
@@ -245,7 +247,6 @@
     "Drawing/Chartsview/Sample.md",
     "Drawing/Chartsview/dataview.md",
     "Drawing/Chartsview/Area.md",
-    "Drawing/Chart/Data from table.md",
     "Drawing/Chart/Sample 1.md",
     "Drawing/Chart/Jadual.md",
     "Drawing/Chart/File Table.md",
